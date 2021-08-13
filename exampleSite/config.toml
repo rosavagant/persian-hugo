@@ -24,8 +24,8 @@ name = "Travel & Stay"
 url = "travel-stay"
 weight = 4
 [[menu.main]]
-name = "Privacy Policy"
-url = "privacy-policy"
+name = "Gifts"
+url = "gifts"
 weight = 5
 [outputs]
 home = ["HTML", "RSS", "json"]
