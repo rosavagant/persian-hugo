@@ -25,7 +25,7 @@ url = "schedule"
 weight = 3
 [[menu.main]]
 name = "Invitation"
-url = "invite"
+url = "invitation"
 weight = 2
 [[menu.main]]
 name = "Home"
