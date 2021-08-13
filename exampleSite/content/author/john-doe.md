@@ -9,10 +9,6 @@ social:
   link: "#"
 - icon: ti-github
   link: "#"
-menu:
-  main:
-    name: Invitation
-    weight: 2
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.

@@ -8,29 +8,29 @@ title = "PJ&Roos"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-[[menu.main]]
-name = "Invitation"
-url = "invite"
-weight = 2
-[[menu.main]]
-name = "Ceremony & Reception"
-url = "schedule"
-weight = 3
-[[menu.main]]
-name = "Travel & Stay"
-url = "travel-stay"
-weight = 4
+name = "Contact"
+url = "contact"
+weight = 6
 [[menu.main]]
 name = "Gifts"
 url = "gifts"
 weight = 5
 [[menu.main]]
-name = "Contact"
-url = "contact"
-weight = "6"
+name = "Travel & Stay"
+url = "travel-stay"
+weight = 4
+[[menu.main]]
+name = "Ceremony & Reception"
+url = "schedule"
+weight = 3
+[[menu.main]]
+name = "Invitation"
+url = "invite"
+weight = 2
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
