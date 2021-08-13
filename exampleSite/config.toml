@@ -27,6 +27,10 @@ weight = 4
 name = "Gifts"
 url = "gifts"
 weight = 5
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = "6"
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
