@@ -3,8 +3,8 @@ disqusShortname = ""
 languageCode = "en-us"
 languageName = "En"
 paginate = "5"
-theme = "Wedding"
-title = "Wedding"
+theme = "persian-hugo"
+title = "persian-hugo"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
