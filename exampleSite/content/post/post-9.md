@@ -1,7 +1,7 @@
 ---
 title: We're getting married...
 date: 
-image: "/images/_dsc0165-jpg.jpeg"
+image: "/images/screenshot_2020-09-02-21-57-13-302_com-google-android-apps-photos.jpg"
 author: ''
 description: ''
 categories:
