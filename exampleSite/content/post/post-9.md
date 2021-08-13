@@ -8,6 +8,10 @@ categories:
 - I said yes!
 tags:
 - about
+menu:
+  main:
+    name: Home
+    weight: 1
 
 ---
 After 6 years we're tying the knot!
