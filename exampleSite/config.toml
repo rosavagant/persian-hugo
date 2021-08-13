@@ -2,7 +2,7 @@ baseURL = "https://peterjanrosanna.com"
 disqusShortname = "Wedding PJ&Roos"
 languageCode = "en-us"
 languageName = "En"
-paginate = "5"
+paginate = "6"
 theme = "persian-hugo"
 title = "PJ&Roos"
 [markup.goldmark.renderer]
