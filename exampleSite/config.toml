@@ -20,8 +20,8 @@ name = "Ceremony & Reception"
 url = "schedule/"
 weight = 3
 [[menu.main]]
-name = "Contact"
-url = "contact"
+name = "Travel & Stay"
+url = "travel-stay"
 weight = 4
 [[menu.main]]
 name = "Privacy Policy"
