@@ -1,5 +1,5 @@
 ---
-title: "Privacy & Policy"
+title: "Gifts"
 # meta description
 description: "this is meta description"
 # save as draft

@@ -21,16 +21,22 @@ sections:
   templates:
   - post
 - type: heading
-  label: Others Page
+  label: Pages
 - type: document
-  path: exampleSite/content/about/_index.md
-  label: About
+  path: exampleSite/content/invitation/_index.md
+  label: Invitation
+- type: document
+  path: exampleSite/content/schedule/_index.md
+  label: Ceremony & Reception
+- type: document
+  path: exampleSite/content/travel/_index.md
+  label: Travel & Stay
+- type: document
+  path: exampleSite/content/gifts/_index.md
+  label: Gifts
 - type: document
   path: exampleSite/content/contact/_index.md
   label: Contact
-- type: document
-  path: exampleSite/content/privacy-policy/_index.md
-  label: Privacy Policy
 - type: heading
   label: Configuration
 - type: directory
