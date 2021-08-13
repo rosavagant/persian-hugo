@@ -16,8 +16,8 @@ name = "Invitation"
 url = "invite"
 weight = 2
 [[menu.main]]
-name = "Category"
-url = "categories/nature/"
+name = "Ceremony & Reception"
+url = "schedule/"
 weight = 3
 [[menu.main]]
 name = "Contact"
