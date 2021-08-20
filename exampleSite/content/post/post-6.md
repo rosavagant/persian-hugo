@@ -1,6 +1,6 @@
 ---
 title: Invite
-date: 2021-08-19T22:00:00.000+00:00
+date: 2021-08-18T22:00:00+00:00
 image: "/images/img-20191023-wa0004.jpg"
 author: ''
 description: You're invited!
