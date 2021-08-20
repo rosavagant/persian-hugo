@@ -6,11 +6,6 @@ webhook_url:
 sections:
 - type: heading
   label: Author
-- type: directory
-  path: exampleSite/content/author
-  label: Authors
-  create: documents
-  match: "**/*"
 - type: heading
   label: Blog Post
 - type: directory
