@@ -6,6 +6,8 @@ webhook_url:
 sections:
 - type: heading
   label: Blog Post
+- type: heading
+  label: Pages
 - type: directory
   path: exampleSite/content/post
   label: Post
@@ -13,8 +15,6 @@ sections:
   match: "**/*"
   templates:
   - post
-- type: heading
-  label: Pages
 - type: document
   path: exampleSite/content/invitation/_index.md
   label: Invitation
