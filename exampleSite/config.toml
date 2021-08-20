@@ -38,7 +38,7 @@ author = ""
 contact_form_action = ""
 copyright = ""
 description = ""
-logo = "images/watercolorstain.jpg"
+logo = "images/logo.png"
 search = true
 [params.cookies]
 enable = false
