@@ -24,10 +24,6 @@ name = "Ceremony & Reception"
 url = "schedule"
 weight = 3
 [[menu.main]]
-name = "Invitation"
-url = "invitation"
-weight = 2
-[[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
