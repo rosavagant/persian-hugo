@@ -1,7 +1,5 @@
 ---
-title: "Lets Contact Us"
-# meta description
-description: "this is meta description"
-# save as draft
-draft: false
+title: RSVP
+description: Laat het ons weten of je aanwezig bent.
+
 ---
