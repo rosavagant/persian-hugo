@@ -1,34 +1,6 @@
 ---
-title: "Gifts"
-# meta description
-description: "this is meta description"
-# save as draft
-draft: false
+title: Gifts
+description: What gifts to get us...
+
 ---
-
-bottom line is it’s our aim to always take care of both of us, 
-Please read this terms and  stated below, goodies Byes
-
-#### Responsibility of Contributors
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed 
-
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
-
-#### Gathering of Personal Information
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-
-#### Protection of  Personal- Information
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
-
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
-
-#### Privacy Policy Changes
-
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+...bottom line: we do not want physical gifts or gift cards. We would like you to respect this wish. In our quest for a better world, we are happy with the items we already posess and we wish no more. If you would like to provide us with a gift, we would be happy to recieve a donation for the wedding, our honeymoon, other travels, our future. This can be given to us in the form of a bank transcription, a Tikkie, an envelope with phyfical money, a cryptocurrency transfer of your choice, a silver or gold piece. As long as it is not a gift card that we have to exchange in a store, since they expire and might not provide us the freedom of exchanging the value the way we would like to.
