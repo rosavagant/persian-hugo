@@ -1,7 +1,7 @@
 ---
 title: Invite
 date: 2021-08-18T22:00:00+00:00
-image: "/images/img-20170713-wa0007.jpg"
+image: "/images/weddinginvitation_nl_3.png"
 author: ''
 description: You're invited!
 categories: []
