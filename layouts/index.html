@@ -4,17 +4,6 @@
     <div class="container-fluid">
         <div class="row">
             {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }} {{ range $index,$elements:= $paginator.Pages }} {{ if eq $index 0}}
-            <div class="col-12 mb-4">
-                <div class="post">
-                    <img src="{{ .Params.Image | absURL }}" class="img-fluid w-50" alt="{{ .Title }}">
-                    <div class="post-content">
-                        <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-                        <ul class="list-inline post-meta">
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            {{ else }}
             <div class="col-md-6 mb-4">
                 <div class="post post-sm">
                     <img src="{{ .Params.Image | absURL }}" class="img-fluid w-50" alt="{{ .Title }}">
@@ -25,7 +14,7 @@
                     </div>
                 </div>
             </div>
-            {{ end }} {{ end }}
+            {{ end }}
             <div class="col-12">
 
                 <!-- pagination -->
