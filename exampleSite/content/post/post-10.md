@@ -1,5 +1,5 @@
 ---
-title: Ceremony & Reception
+title: 3. Ceremony & Reception
 image: "/images/img-20170713-wa0007.jpg"
 description: The schedule for the day
 
