@@ -178,7 +178,11 @@
         overflow-wrap: break-word;
     }
     img {
-        max-width: 50%;
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        object-fit: cover;
+        transform: translateY(50px);
     }
     h1,
     h2,
