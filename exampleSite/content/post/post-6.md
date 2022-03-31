@@ -1,5 +1,4 @@
 ---
-title: Invite
 image: "/images/weddinginvitation_nl_4.jpg"
 description: You're invited!
 menu:
