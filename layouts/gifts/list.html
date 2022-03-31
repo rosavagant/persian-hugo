@@ -5,6 +5,7 @@
         <div class="text-center">
             <h1 class="text-center display-3">{{.Title | markdownify }}</h1>
             {{ with .Params.image }}
+            <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}"> {{ end }}
         </div>
     </div>
 </section>
