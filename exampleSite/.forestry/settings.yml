@@ -18,7 +18,7 @@ sections:
   label: Invitation
 - type: document
   path: exampleSite/content/schedule/_index.md
-  label: Ceremony & Reception
+  label: Schedule
 - type: document
   path: exampleSite/content/travel/_index.md
   label: Travel & Stay

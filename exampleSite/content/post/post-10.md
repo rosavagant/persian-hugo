@@ -1,7 +1,7 @@
 ---
-title: 2.   Ceremony & Reception
+title: 2.   Schedule
 image: "/images/img-20170713-wa0007.jpg"
-description: The schedule for the day
+description: The schedule for the wedding day
 
 ---
 ## Trouwen

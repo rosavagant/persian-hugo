@@ -1,5 +1,5 @@
 ---
-title: "Ceremony & Reception"
+title: "Schedule"
 # meta description
 description: "this is meta description"
 # save as draft
