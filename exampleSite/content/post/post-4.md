@@ -1,6 +1,5 @@
 ---
 title: Gifts
-date: 2021-08-18T22:00:00+00:00
 image: "/images/envelope.png"
 author: ''
 description: What gifts to get us...
