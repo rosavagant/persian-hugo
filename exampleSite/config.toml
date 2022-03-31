@@ -12,14 +12,6 @@ name = "Contact"
 url = "contact"
 weight = 6
 [[menu.main]]
-name = "Travel & Stay"
-url = "travel"
-weight = 4
-[[menu.main]]
-name = "Ceremony & Reception"
-url = "schedule"
-weight = 3
-[[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
