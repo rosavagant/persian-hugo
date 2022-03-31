@@ -5,7 +5,7 @@ description: What gifts to get us...
 menu:
   main:
     name: Gifts
-    weight: 2
+    weight: 5
 
 ---
 ## Gift suggestions

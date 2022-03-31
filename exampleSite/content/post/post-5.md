@@ -5,8 +5,7 @@ description: ''
 menu:
   main:
     name: Travel & Stay
-    weight: 2
-
+    weight: 4
 
 ---
 ## The venue
