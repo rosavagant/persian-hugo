@@ -178,11 +178,8 @@
         overflow-wrap: break-word;
     }
     img {
-        height: 100px;
-        width: 100px;
-        border-radius: 50%;
-        object-fit: cover;
-        transform: translateY(50px);
+        max-height: 25px;
+        max-width: 160px;
     }
     h1,
     h2,
