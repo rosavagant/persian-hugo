@@ -1,10 +1,7 @@
 ---
 title: Gifts
 image: "/images/envelope.png"
-author: ''
 description: What gifts to get us...
-categories: []
-tags: []
 
 ---
 ## Gift suggestions

@@ -18,9 +18,6 @@
                     <div class="post-content">
                         <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                         <ul class="list-inline post-meta">
-                            <li class="list-inline-item"><i class="ti-tag"></i></li>
-                            {{ range .Params.Tags }}
-                            <li class="list-inline-item"><a href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}">{{ . | humanize }}</a></li> {{ end }}
                         </ul>
                     </div>
                 </div>
@@ -32,9 +29,6 @@
                     <div class="post-content">
                         <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                         <ul class="list-inline post-meta">
-                            <li class="list-inline-item"><i class="ti-tag"></i></li>
-                            {{ range .Params.Tags }}
-                            <li class="list-inline-item"><a href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}">{{ . | humanize }}</a></li> {{ end }}
                         </ul>
                     </div>
                 </div>

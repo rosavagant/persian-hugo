@@ -1,10 +1,7 @@
 ---
 title: Invite
 image: ''
-author: ''
 description: You're invited!
-categories: []
-tags: []
 menu:
   main:
     name: Invitation

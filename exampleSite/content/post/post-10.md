@@ -1,10 +1,7 @@
 ---
 title: Ceremony & Reception
 image: "/images/img-20170713-wa0007.jpg"
-author: ''
 description: The schedule for the day
-categories: []
-tags: []
 
 ---
 ## Trouwen
