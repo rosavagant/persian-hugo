@@ -23,7 +23,7 @@ sections:
   path: exampleSite/content/travel/_index.md
   label: Travel & Stay
 - type: document
-  path: exampleSite/content/gifts/_index.md
+  path: exampleSite/content/post/post-4.md
   label: Gifts
 - type: document
   path: exampleSite/content/contact/_index.md

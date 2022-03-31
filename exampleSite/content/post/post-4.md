@@ -2,6 +2,10 @@
 title: 5.   Gifts
 image: "/images/envelope.png"
 description: What gifts to get us...
+menu:
+  main:
+    name: Gifts
+    weight: 2
 
 ---
 ## Gift suggestions
