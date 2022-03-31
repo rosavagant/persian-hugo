@@ -1,5 +1,5 @@
 ---
 title: RSVP
-description: Laat het ons weten of je aanwezig bent.
+description: Please inform us if you'll be at our wedding.
 
 ---
