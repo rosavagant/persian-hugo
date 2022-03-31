@@ -12,10 +12,6 @@ name = "Contact"
 url = "contact"
 weight = 6
 [[menu.main]]
-name = "Gifts"
-url = "gifts"
-weight = 5
-[[menu.main]]
 name = "Travel & Stay"
 url = "travel"
 weight = 4
