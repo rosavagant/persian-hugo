@@ -458,7 +458,7 @@ mark {
   overflow-wrap: break-word; }
 
 .content img {
-  max-width: 50%; }
+  max-width: 100%; }
 
 .content h1,
 .content h2,
