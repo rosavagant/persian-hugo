@@ -1,6 +1,6 @@
 ---
 title: 3.   Invitation
-image: "/images/weddinginvitation_nl_4.jpg"
+image: "/images/weddinginvitation_nl_4_parc.jpg"
 description: You're invited!
 menu:
   main:
