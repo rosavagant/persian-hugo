@@ -3,7 +3,7 @@
 <section>
     <div class="container-fluid">
         <div class="post">
-            <img src="{{ .Params.Image | absURL }}" class="img-fluid w-50" alt="{{ .Title }}">
+            <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
             <div class="post-content">
                 <h2 class="post-title">{{ .Title }}</h2>
             </div>
@@ -29,14 +29,4 @@
     </div>
 </section>
 
-{{ if .Site.DisqusShortname }}
-<section class="section-sm bg-light">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 mx-auto">
-                {{ template "_internal/disqus.html" . }}
-            </div>
-        </div>
-    </div>
-</section>
-{{ end }} {{ end }}
+{{ end }}
