@@ -20,4 +20,4 @@ We kindly request you to leave your kids and pets at home.
 
 The dress code is 'Summer Chic'.
 
-Disclaimer: You're invited to our wedding if you've been sent an invitation, via e-mail, text message or if you've recieved it in your mailbox.
+Disclaimer: You're invited to our wedding if you've been sent an invitation, via e-mail, text message or if you've received it in your mailbox.
