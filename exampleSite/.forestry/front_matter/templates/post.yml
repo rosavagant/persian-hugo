@@ -12,3 +12,8 @@ fields:
   name: description
   label: description
   description: this is meta description
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: gallery
+  description: Upload your photo's here
