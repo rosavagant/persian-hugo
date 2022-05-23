@@ -1,7 +1,6 @@
 ---
-title: "Invitation"
-# meta description
-description: "this is meta description"
-# save as draft
-draft: false
+title: Invitation
+description: this is meta description
+
 ---
+![](/images/weddinginvitation_nl_4_parc.jpg)
