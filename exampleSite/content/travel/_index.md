@@ -6,29 +6,36 @@ description: "this is meta description"
 draft: false
 ---
 
-bottom line is it’s our aim to always take care of both of us, 
-Please read this terms and  stated below, goodies Byes
+Het bomenmuseum heeft een lange geschiedenis. Voor meer informatie, zie hun website: https://www.bomenmuseum.nl/.
+In een parkachtig landschap van 29 hectare, doorsneden met vijvers die worden gevoed met helder kwelwater van de Utrechtse Heuvelrug, staan ruim 3000 soorten bomen en struiken, afkomstig uit de hele wereld. Er zijn vele doorkijkjes, een grote heidetuin, een enorme boomhut en een natuurspeeltuin. Max von Gimborn, de initiële eigenaar van het gebied, hield van naaldbomen en coniferen en wintergroene struiken (bijv. Rhododendron). Daarmee legde hij tussen 1924 en zijn overlijden in 1964 de basis aan van het huidige park. Het park was daarna in eigendom van de Universiteit Utrecht. Dit terwijl Peter Jan en ik nooit van het park gehoord hebben en wij onze bachelor en master aan de UU hebben afgerond.
 
-#### Responsibility of Contributors
+#### Huisregels
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed 
+Hoofddoel is het arboretumgedeelte schoon te houden en de collectie niet te beschadigen. De regels luiden daarom:
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+1. Honden kort (max. 2 meter) aangelijnd houden. Hondenpoep graag zelf opruimen en afvoeren in door u zelf meegenomen zakjes en meenemen als u het museum verlaat. Wij hebben geen verzamelfaciliteiten daarvoor.
+2. Niet in de vakken lopen (op gras dat als gazon kort gemaaid is mag gelopen worden). In de heidetuin kan gewandeld worden op de smalle zandpaden tussen de vakken.
+3. Golfkarren alleen op de (half)verhardingen en graspaden, niet op het gras. Niet met golfkarren over bruggetjes zonder leuningen.
+4. Vijver- en slootoevers niet betreden. Houd een afstand van ca. 2 meter aan tot het water.
+5. Geen plantendelen meenemen, ook niet van de grond. Als u speciale interesse in dergelijke delen hebt met een bepaald doel, neem dan emailcontact op (info@bomenmuseum.nl).
+6. Geen afval achterlaten behalve in prullenbakken.
 
-#### Gathering of Personal Information
+#### Plattegrond
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Voor het geval je alvast een kijkje wilt nemen:
+https://www.bomenmuseum.nl/bezoek/plattegrond/
 
-#### Protection of  Personal- Information
+#### Route en Parkeren
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
+Bereikbaar met de auto én het OV. Binnen de hekken voldoende parkeerplek. Ook buiten de hekken. Voor meer informatie:
+https://www.bomenmuseum.nl/bezoek/route-parkeren/
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
+#### Kleding tips
 
-#### Privacy Policy Changes
+Het thema is zomer sjiek. Let wel op dat het een park betreft en naaldhakken daarmee mogelijk niet je beste keuze zal zijn. Ook kan het best wel afkoelen na een uur of 20u30. Houd daar rekening mee.
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+#### Tips om in de buurt te verblijven
+
+1. Wij verblijven in hotel Buitenplaats de Bergse Bossen https://www.bergsebossen.nl/, niet per se op rolafstand
+2. Landgoed De Horst http://www.landgoeddehorst.nl/
+3. Landgoed Zonheuvel https://www.landgoedzonheuvel.nl/
