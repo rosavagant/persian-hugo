@@ -20,7 +20,7 @@ https://www.bomenmuseum.nl/bezoek/plattegrond/
 #### ROUTE EN PARKEREN
 
 Bomenmuseum, Arboretum von Gimborn.
-https://g.page/Bomenmuseum?share 
+https://g.page/Bomenmuseum?share
 
 Bereikbaar met de auto én het OV.
 Binnen de hekken voldoende parkeerplek. Ook buiten de hekken voldoende parkeerplek.
@@ -47,3 +47,7 @@ Het thema is zomer sjiek. Let wel op dat het een park betreft en naaldhakken daa
 1. Wij verblijven in hotel Buitenplaats de Bergse Bossen https://www.bergsebossen.nl/, niet per se op rolafstand
 2. Landgoed De Horst http://www.landgoeddehorst.nl/
 3. Landgoed Zonheuvel https://www.landgoedzonheuvel.nl/
+
+![](/images/img-20210902-wa0006.jpg)
+
+***
