@@ -17,8 +17,8 @@ sections:
   path: exampleSite/content/invitation/_index.md
   label: Invitation
 - type: document
-  path: exampleSite/content/schedule/_index.md
-  label: Schedule
+  path: exampleSite/content/program/_index.md
+  label: Programma - Programme
 - type: document
   path: exampleSite/content/travel/_index.md
   label: Travel & Stay
