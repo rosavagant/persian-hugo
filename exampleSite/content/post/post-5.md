@@ -1,6 +1,6 @@
 ---
 title: 4.   Locatie - Lieu
-image: "/images/img-20170713-wa0009.jpg"
+image: "/images/dsc07260-1-1920x0.jpg"
 description: ''
 menu:
   main:
