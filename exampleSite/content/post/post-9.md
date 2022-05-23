@@ -10,6 +10,8 @@ Na 7 jaar samenzijn, gaan wij ons in het echt verbinden. Eind augustus vieren wi
 Op de bruiloft hopen we jullie hiervan een mooi kijkje te geven in ons samenzijn.
 Kernwoorden die onze relatie weergeven zijn persoonlijke groei, elkaar spiegelen, compassie, toewijding, plezier, luisteren, elkaar echt zien, steun, moed, durf, uitdaging, perfectionisme, speelsheid, nieuwsgierigheid, intuïtie, gevoel, wijsheid, kennis, groots dromen, natuur en buiten zijn.
 
+ ![](/images/02-05-2015.png)
+
 #### NATUUR
 
 We hebben elkaar echt gevonden in onze liefde voor de natuur en onze wil om te groeien naar de natuur toe. Het voelt als avontuur en uitdaging. En wij houden beiden wel van een uitdaging! Dit houdt in dat we met speelsheid en nieuwsgierigheid elke dag weer iets nieuws leren over de natuur dichter bij ons halen. We begonnen met een paar planten in huis. Rosanna vond al gauw 'een paar' niet genoeg en ons huis werd een enorme Urban Jungle. In de eerste week van samenwonen legden we al direct een tuin aan voor en achter ons appartement. We hielden van het ontwerpen ervan, de planten aanleggen en telkens nieuwe invullingen vinden. We begonnen met plantjes zoals we dat kenden in tuinen, zoals bij onze ouders. Na enige tijd ontstond een enorm verlangen om een groter stuk land te bezitten, waar we meer onze gang konden gaan. En dit keer niet per se met de gangbare tuinplanten. We hebben namelijk een droom.
@@ -56,8 +58,4 @@ Zomer Sjiek
 Wij kijken er enorm naar uit jullie te mogen ontvangen op deze mooie en speciale dag! Ter voorbereiding vragen wij jullie om 2 dingen te doen:
 
 * Geef je aanwezigheid door aan ons via een mail naar trouwen.tussen.de.bomen@gmail.com. Wij vragen je je kinderen thuis, bij oma en opa of bij de oppas te laten.
-
-
 * Voeg je favoriete muziek toe aan deze aanmeldingsmail of direct in de Spotify Playlist: [https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c "PJ&ROOS Wedding Requests Playlist")
-
-![](/images/02-05-2015.png)
