@@ -28,8 +28,7 @@ We dromen over jaarronde voedselvoorziening, verbetering van biodiversiteit, vas
 
 #### CONCEPT BRUILOFT
 
-Met dit verlangen, deze passie, organiseren wij onze bruiloft. De viering van onze liefde. Voor elkaar. Voor de natuur. En we inspireren er graag anderen mee.
-Wat dit concreet inhoudt...
+Met dit verlangen en deze passie, organiseren wij onze bruiloft. De viering van onze liefde. Voor elkaar. Voor de natuur. En we inspireren er graag anderen mee. Wat dit concreet inhoudt...
 
 ...onze bruiloft vindt plaats in het groen, tussen de bomen, (hopelijk) in de zon, omgeven door het geluid van vogels en de geur van bloemen en bladeren. Er is een grote stretchtent aanwezig met als ondergrond een houten vlondervloer. Het pad ernaartoe is gras, grond of grind. Let hier dus op met je kleding en schoenenkeuze.
 
