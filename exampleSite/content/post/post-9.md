@@ -33,9 +33,9 @@ Wat dit concreet inhoudt...
 
 ...het kan regenachtig zijn, ook dat hoort erbij. Wel hebben we bij slecht weer een mooi alternatief, dat geheel overdekt is.
 
-...de catering is [Cloo&Leyn](https://cloo-leyn.nl/) en hun Groentelab. Zij experimenteren met lokaal eten, vergeten groenten en hebben een eigen voedselbos. Het eten zal voornamelijk veganistisch zijn met groenten en fruit uit het seizoen van lokale teelt.
+...de catering is [**Cloo&Leyn**](https://cloo-leyn.nl/) en hun Groentelab. Zij experimenteren met lokaal eten, vergeten groenten en hebben een eigen voedselbos. Het eten zal voornamelijk veganistisch zijn met groenten en fruit uit het seizoen van lokale teelt.
 
-...de zoetigheden worden verzorgd door Sascha van [Zoete Koek](https://www.instagram.com/_zoetekoek/?hl=en) en restaurant [Kasvio](https://kasvio.nl/). Zij maakt uitsluitend veganistische pattiserie. Prachtige en smakelijke creaties.
+...de zoetigheden worden verzorgd door Sascha van [**Zoete Koek**](https://www.instagram.com/_zoetekoek/?hl=en) en restaurant [**Kasvio**](https://kasvio.nl/). Zij maakt uitsluitend veganistische pattiserie. Prachtige en smakelijke creaties.
 
 ...alle spullen een versieringen op de locatie zijn gehuurd, geleend of vanuit eigen gebruik.
 
@@ -43,11 +43,11 @@ Wat dit concreet inhoudt...
 
 ...er zal een geleide rondleiding zijn door het park met gids voor wie geïnteresseerd is.
 
-...wij wensen geen tastbare cadeau's te ontvangen. Zie [deze pagina](https://peterjanrosanna.netlify.app/post/post-4/) voor meer informatie.
+...wij wensen geen tastbare cadeau's te ontvangen. Zie [**deze pagina**](https://peterjanrosanna.netlify.app/post/post-4/) voor meer informatie.
 
 #### PROGRAMMA
 
-Voor het programma, zie [deze pagina](https://peterjanrosanna.netlify.app/post/post-10/ "Programma").
+Voor het programma, zie [**deze pagina**](https://peterjanrosanna.netlify.app/post/post-10/ "Programma").
 
 #### DRESS CODE
 
@@ -58,7 +58,7 @@ Zomer Sjiek
 Wij kijken er enorm naar uit jullie te mogen ontvangen op deze mooie en speciale dag! Ter voorbereiding vragen wij jullie om 2 dingen te doen:
 
 * Geef je aanwezigheid door aan ons via een mail naar trouwen.tussen.de.bomen@gmail.com. Wij vragen je je kinderen thuis, bij oma en opa of bij de oppas te laten.
-* Voeg je favoriete muziek toe aan deze aanmeldingsmail of direct in de Spotify Playlist: [PJ&ROOS Wedding Requests Playlist.](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c "PJ&ROOS Wedding Requests Playlist")
+* Voeg je favoriete muziek toe aan deze aanmeldingsmail of direct in de Spotify Playlist: [**PJ&ROOS Wedding Requests Playlist**.](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c "PJ&ROOS Wedding Requests Playlist")
 
 ***
 
