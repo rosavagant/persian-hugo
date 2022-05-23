@@ -19,3 +19,5 @@ Mocht je graag iets aan ons geven, dan vragen we je om ons iets te geven wat van
 #### LEUK EXTRA'TJE
 
 Wij zouden het ontzettend leuk vinden als je met ons een foto of kaartje deelt van je favoriete buitenplekje, je favoriete natuurmoment, een buitentip of een tuintip.
+
+![](/images/img_20220212_154339.jpg)
