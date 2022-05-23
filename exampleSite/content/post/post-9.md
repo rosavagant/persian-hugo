@@ -2,6 +2,8 @@
 title: 1.   Welkom - Bienvenue
 image: "/images/Screenshot_2020-09-02-21-57-13-302_com.google.android.apps.photos.jpg"
 description: Welkom op onze bruiloft!
+gallery:
+- "/images/02-05-2015.png"
 
 ---
 #### DE LIEFDE
@@ -10,7 +12,7 @@ Na 7 jaar samenzijn, gaan wij ons in het echt verbinden. Eind augustus vieren wi
 Op de bruiloft hopen we jullie hiervan een mooi kijkje te geven in ons samenzijn.
 Kernwoorden die onze relatie weergeven zijn persoonlijke groei, elkaar spiegelen, compassie, toewijding, plezier, luisteren, elkaar echt zien, steun, moed, durf, uitdaging, perfectionisme, speelsheid, nieuwsgierigheid, intuïtie, gevoel, wijsheid, kennis, groots dromen, natuur en buiten zijn.
 
-                                      ![](/images/02-05-2015.png)
+                              ![](/images/02-05-2015.png "Verliefd in Parijs")
 
 #### NATUUR
 
