@@ -6,6 +6,10 @@ gallery:
 - "/images/02-05-2015.png"
 
 ---
+# NEDERLANDS
+
+Français en dessous de cette page...
+
 #### DE LIEFDE
 
 Na 7 jaar samenzijn, gaan wij ons in het echt verbinden. Eind augustus vieren wij de liefde graag met jullie. Op de bruiloft hopen we jullie hiervan een mooi kijkje te geven in ons samenzijn. Kernwoorden die onze relatie weergeven zijn persoonlijke groei, elkaar spiegelen, compassie, toewijding, plezier, luisteren, elkaar echt zien, steun, moed, durf, uitdaging, perfectionisme, speelsheid, nieuwsgierigheid, intuïtie, gevoel, wijsheid, kennis, groots dromen, natuur en buiten zijn.
@@ -50,6 +54,45 @@ Zie [deze pagina](https://peterjanrosanna.netlify.app/post/post-4/) voor meer in
 Voor het programma, zie [deze pagina](https://peterjanrosanna.netlify.app/post/post-10/).
 
 #### DRESS CODE
+
+Zomer Sjiek
+
+#### RSVP
+
+Wij kijken er enorm naar uit jullie te mogen ontvangen op deze mooie en speciale dag! Ter voorbereiding vragen wij jullie om 2 dingen te doen:
+
+* Geef je aanwezigheid door aan ons via een mail naar trouwen.tussen.de.bomen@gmail.com. Wij vragen je je kinderen thuis, bij oma en opa of bij de oppas te laten.
+* Voeg je favoriete muziek toe aan deze aanmeldingsmail of direct in de Spotify Playlist: [PJ&ROOS Wedding Requests Playlist.](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c)
+
+***
+
+# Français
+
+#### L'AMOUR
+
+Na 7 jaar samenzijn, gaan wij ons in het echt verbinden. 
+
+#### NATURE
+
+We hebben elkaar echt gevonden in onze liefde voor de natuur en onze wil om te groeien naar de natuur toe. 
+
+#### NOTRE RÈVE
+
+We dromen over jaarronde voedselvoorziening,
+
+#### CONCEPT DE LA MARIAGE
+
+Met dit verlangen, deze passie, organis
+
+#### CADEAUX
+
+Zie [deze pagina](https://peterjanrosanna.netlify.app/post/post-4/) voor meer informatie.
+
+#### PROGRAMME
+
+Voor het programma, zie [deze pagina](https://peterjanrosanna.netlify.app/post/post-10/).
+
+#### CODE VESTIMENTAIRE
 
 Zomer Sjiek
 
