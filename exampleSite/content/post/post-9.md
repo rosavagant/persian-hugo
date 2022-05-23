@@ -47,7 +47,7 @@ Wat dit concreet inhoudt...
 
 #### PROGRAMMA
 
-Voor het programma, zie [deze pagina](https://peterjanrosanna.netlify.app/post/post-10/).
+Voor het programma, zie [deze pagina](https://peterjanrosanna.netlify.app/post/post-10/ "Programma").
 
 #### DRESS CODE
 
