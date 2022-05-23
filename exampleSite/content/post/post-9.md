@@ -32,7 +32,7 @@ Met dit verlangen en deze passie, organiseren wij onze bruiloft. De viering van 
 
 ...onze bruiloft vindt plaats in het groen, tussen de bomen, (hopelijk) in de zon, omgeven door het geluid van vogels en de geur van bloemen en bladeren. Er is een grote stretchtent aanwezig met als ondergrond een houten vlondervloer. Het pad ernaartoe is gras, grond of grind. Let hier dus op met je kleding en schoenenkeuze.
 
-...het kan regenachtig zijn, ook dat hoort erbij. Wel hebben we bij slecht weer een mooi alternatief, dat geheel overdekt is.
+...het kan regenachtig zijn. Ook dat hoort erbij. Wel hebben we bij slecht weer een mooi alternatief, dat geheel overdekt is.
 
 ...de catering is [**Cloo&Leyn**](https://cloo-leyn.nl/) en hun Groentelab. Zij experimenteren met lokaal eten, vergeten groenten en hebben een eigen voedselbos. Het eten zal voornamelijk veganistisch zijn met groenten en fruit uit het seizoen van lokale teelt.
 
