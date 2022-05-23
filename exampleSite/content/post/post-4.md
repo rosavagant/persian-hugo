@@ -1,10 +1,10 @@
 ---
-title: 5.   Gifts
+title: 5.   Cadeaus
 image: "/images/img_20191017_173113642.jpg"
 description: What gifts to get us...
 menu:
   main:
-    name: Gifts
+    name: Cadeaus - Cadeaux
     weight: 5
 
 ---
