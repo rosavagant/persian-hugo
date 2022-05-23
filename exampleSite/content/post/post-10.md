@@ -10,7 +10,7 @@ menu:
 ---
 ## Locatie
 
-Bomenmuseum, Arboretum von Gimborn
+Bomenmuseum, Arboretum von Gimborn.
 https://g.page/Bomenmuseum?share
 
 ## Parkeren
