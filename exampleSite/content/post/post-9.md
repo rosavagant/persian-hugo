@@ -34,13 +34,19 @@ Wat dit concreet inhoudt...
 ...er een geleide rondleiding zal zijn door het park met gids voor wie geïnteresseerd is.
 
 ...wij wensen geen tastbare cadeau's te ontvangen. Naast dat wij van alle gemakken voorzien zijn, ons huis vol is en de kans nog niet groot zien dat wij snel zullen verhuizen, hebben wij de wens om zo min mogelijk afval te creëren. Waar wij iets krijgen, zullen wij namelijk iets moeten wegdoen en dat willen wij niet.
+
+CADEAUS
 Zie deze pagina voor meer informatie.
 
+PROGRAMMA
 Voor het programma, zie deze pagina.
 
+DRESS CODE
+Zomer Sjiek
 
+RSVP
 Wij kijken er enorm naar uit jullie te mogen ontvangen op deze mooie en speciale dag! Ter voorbereiding vragen wij jullie om 2 dingen te doen:
 
-...geef je aanwezigheid door aan ons via een mail naar trouwen.tussen.de.bomen@gmail.com
+...geef je aanwezigheid door aan ons via een mail naar trouwen.tussen.de.bomen@gmail.com. Wij vragen je je kinderen thuis, bij oma en opa of bij de oppas te laten.
 
 ...voeg je favoriete muziek toe aan deze aanmeldingsmail of direct in de Spotify Playlist: https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c
