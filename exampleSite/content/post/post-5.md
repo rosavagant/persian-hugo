@@ -29,7 +29,12 @@ https://www.bomenmuseum.nl/bezoek/plattegrond/
 
 #### Route en Parkeren
 
-Bereikbaar met de auto én het OV. Binnen de hekken voldoende parkeerplek. Ook buiten de hekken. Voor meer informatie:
+Bomenmuseum, Arboretum von Gimborn.
+https://g.page/Bomenmuseum?share 
+
+Bereikbaar met de auto én het OV.
+Binnen de hekken voldoende parkeerplek. Ook buiten de hekken voldoende parkeerplek.
+Voor meer informatie:
 https://www.bomenmuseum.nl/bezoek/route-parkeren/
 
 #### Kleding tips

@@ -13,9 +13,7 @@ menu:
 Bomenmuseum, Arboretum von Gimborn.
 https://g.page/Bomenmuseum?share
 
-## Parkeren
-
-Op de locatie is voldoende parkeergelegenheid, ook buiten de hekken is er voldoende ruimte.
+Zie meer informatie op de pagina voor de locatie.
 
 ## Dagplanning
 
