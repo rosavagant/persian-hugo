@@ -53,7 +53,8 @@ Voor het programma, zie [deze pagina](https://peterjanrosanna.netlify.app/post/p
 
 Zomer Sjiek
 
-#### RSVP
+
+## RSVP
 
 Wij kijken er enorm naar uit jullie te mogen ontvangen op deze mooie en speciale dag! Ter voorbereiding vragen wij jullie om 2 dingen te doen:
 
