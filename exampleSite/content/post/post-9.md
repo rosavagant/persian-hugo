@@ -34,7 +34,7 @@ Met dit verlangen en deze passie, organiseren wij onze bruiloft. De viering van 
 
 ...het kan regenachtig zijn. Ook dat hoort erbij. Wel hebben we bij slecht weer een mooi alternatief dat geheel overdekt is.
 
-...de catering is [**Cloo&Leyn**](https://cloo-leyn.nl/) en hun Groentelab. Zij experimenteren met lokaal eten, vergeten groenten en hebben een eigen voedselbos. Het eten zal voornamelijk veganistisch zijn met groenten en fruit uit het seizoen van lokale teelt.
+...[**Cloo&Leyn**](https://cloo-leyn.nl/) en hun Groentelab zullen ons de gehele dag verrassen met hun smakelijke creaties aan hapjes en drankjes. Zij experimenteren met lokaal eten, vergeten groenten en hebben een eigen voedselbos. Het eten zal voornamelijk veganistisch zijn met groenten en fruit uit het seizoen en van lokale teelt. In samenwerking met Liesbeth van de Wiel helpen zij ons met het regelen van de grove zaken rondom de bruiloft.
 
 ...de zoetigheden worden verzorgd door Sascha van [**Zoete Koek**](https://www.instagram.com/_zoetekoek/?hl=en) en restaurant [**Kasvio**](https://kasvio.nl/). Zij maakt uitsluitend veganistische pattiserie. Prachtige en smakelijke creaties.
 
