@@ -1,7 +1,7 @@
 ---
 title: 1.   Welkom - Bienvenue
 image: "/images/Screenshot_2020-09-02-21-57-13-302_com.google.android.apps.photos.jpg"
-description: Wait for it.
+description: Welkom op onze bruiloft!
 
 ---
 #### DE LIEFDE
