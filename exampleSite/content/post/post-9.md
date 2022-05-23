@@ -26,7 +26,7 @@ We hebben elkaar echt gevonden in onze liefde voor de natuur en onze wil om te g
 
 We dromen over jaarronde voedselvoorziening, verbetering van biodiversiteit, vasthouden van water in de bodem, natuurlijke beschaduwing, CO2 opslag, verbetering van de bodem en daarmee van de kwaliteit van het voedsel dat je ervan oogst, verbetering van wateropvang en waterkwaliteit. De concepten van voedselbossen, permacultuur en lokale teelt verankeren steeds meer in onze harten. En we zien, ruiken en proeven al het lekkers al wat wij er graag mee koken als twee amateurkoks! Onze achtergrond in Biologie zal hier zeker een rol spelen. We zagen in onze tuin na langere tijd ook in hoe onkruid helemaal geen onkruid hoeft te zijn en het mooi of nuttig kan zijn. Wat als we de natuur zijn gang laten gaan? De manier waarop we het willen toepassen, zit hierin verankerd. Met een luisterend oor naar wat de natuur ons al vertelt, kun je meewerken in plaats van vanuit het hoofd hard te werken. Creatieve manieren, anders denken en anders handelen zit in onze aard en hiermee kijken we opnieuw naar het inkopen van onze boodschappen, koken, verspilling, gebruik en het hebben van spullen en meer. Een enorme, leuke en uitdagende leerweg.
 
-#### CONCEPT BRUILOFT
+#### HET CONCEPT VAN DE BRUILOFT
 
 Met dit verlangen en deze passie, organiseren wij onze bruiloft. De viering van onze liefde. Voor elkaar. Voor de natuur. En we inspireren er graag anderen mee. Wat dit concreet inhoudt...
 
@@ -45,8 +45,6 @@ Met dit verlangen en deze passie, organiseren wij onze bruiloft. De viering van 
 ...er zal een geleide rondleiding zijn door het park met een gids. Mocht je geïnteresseerd zijn, dan is dit je kans!
 
 ...wij wensen geen tastbare cadeau's te ontvangen. Zie [**deze pagina**](https://peterjanrosanna.netlify.app/post/post-4/) voor meer informatie.
-
-#### PROGRAMMA
 
 Voor het programma, zie [**deze pagina**](https://peterjanrosanna.netlify.app/post/post-10/ "Programma").
 
@@ -67,11 +65,11 @@ Wij kijken er enorm naar uit jullie te mogen ontvangen op deze mooie en speciale
 
 #### L'AMOUR
 
-Na 7 jaar samenzijn, gaan wij ons in het echt verbinden. 
+Na 7 jaar samenzijn, gaan wij ons in het echt verbinden.
 
 #### NATURE
 
-We hebben elkaar echt gevonden in onze liefde voor de natuur en onze wil om te groeien naar de natuur toe. 
+We hebben elkaar echt gevonden in onze liefde voor de natuur en onze wil om te groeien naar de natuur toe.
 
 #### NOTRE RÈVE
 
