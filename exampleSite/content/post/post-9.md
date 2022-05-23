@@ -42,7 +42,7 @@ Met dit verlangen en deze passie, organiseren wij onze bruiloft. De viering van 
 
 ...de bloemen komen uit het seizoen en zijn uit Nederland. Samengesteld door niemand minder dan Jan Hooikaas, de vader van Peter Jan.
 
-...er zal een geleide rondleiding zijn door het park met gids voor wie geïnteresseerd is.
+...er zal een geleide rondleiding zijn door het park met een gids. Mocht je geïnteresseerd zijn, dan is dit je kans!
 
 ...wij wensen geen tastbare cadeau's te ontvangen. Zie [**deze pagina**](https://peterjanrosanna.netlify.app/post/post-4/) voor meer informatie.
 
