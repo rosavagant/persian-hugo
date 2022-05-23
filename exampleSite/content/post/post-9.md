@@ -43,11 +43,11 @@ Wat dit concreet inhoudt...
 
 #### CADEAUS
 
-Zie deze pagina voor meer informatie.
+Zie [deze pagina](https://peterjanrosanna.netlify.app/post/post-4/) voor meer informatie.
 
 #### PROGRAMMA
 
-Voor het programma, zie deze pagina.
+Voor het programma, zie [deze pagina](https://peterjanrosanna.netlify.app/post/post-10/).
 
 #### DRESS CODE
 
@@ -58,4 +58,4 @@ Zomer Sjiek
 Wij kijken er enorm naar uit jullie te mogen ontvangen op deze mooie en speciale dag! Ter voorbereiding vragen wij jullie om 2 dingen te doen:
 
 * Geef je aanwezigheid door aan ons via een mail naar trouwen.tussen.de.bomen@gmail.com. Wij vragen je je kinderen thuis, bij oma en opa of bij de oppas te laten.
-* Voeg je favoriete muziek toe aan deze aanmeldingsmail of direct in de Spotify Playlist: [https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c "PJ&ROOS Wedding Requests Playlist")
+* Voeg je favoriete muziek toe aan deze aanmeldingsmail of direct in de Spotify Playlist: [PJ&ROOS Wedding Requests Playlist.](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c)
