@@ -1,6 +1,6 @@
 ---
 title: 3.   Uploads
-image: "/images/img_20200704_125433_604.jpg"
+image: "/images/dsc07260-1-1920x0.jpg"
 description: You're invited!
 gallery:
 - "/images/weddinginvitation_nl_4_parc.jpg"
