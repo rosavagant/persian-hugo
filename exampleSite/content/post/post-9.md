@@ -42,7 +42,6 @@ PROGRAMMA
 Voor het programma, zie deze pagina.
 
 DRESS CODE
-
 Zomer Sjiek
 
 RSVP
