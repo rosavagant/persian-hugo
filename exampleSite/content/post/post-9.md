@@ -59,3 +59,5 @@ Wij kijken er enorm naar uit jullie te mogen ontvangen op deze mooie en speciale
 
 
 * Voeg je favoriete muziek toe aan deze aanmeldingsmail of direct in de Spotify Playlist: [https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c "PJ&ROOS Wedding Requests Playlist")
+
+![](/images/02-05-2015.png)
