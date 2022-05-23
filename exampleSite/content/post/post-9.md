@@ -59,6 +59,8 @@ Wij kijken er enorm naar uit jullie te mogen ontvangen op deze mooie en speciale
 * Geef je aanwezigheid door aan ons via een mail naar trouwen.tussen.de.bomen@gmail.com. Wij vragen je je kinderen thuis, bij oma en opa of bij de oppas te laten.
 * Voeg je favoriete muziek toe aan deze aanmeldingsmail of direct in de Spotify Playlist: [**PJ&ROOS Wedding Requests Playlist**.](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c "PJ&ROOS Wedding Requests Playlist")
 
+![](/images/img_20220515_174756.jpg)
+
 ***
 
 # Français
