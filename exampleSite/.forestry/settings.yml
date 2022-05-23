@@ -15,7 +15,7 @@ sections:
   - post
 - type: document
   path: exampleSite/content/uploads/_index.md
-  label: Uploads
+  label: Uploads - Téléchargements
 - type: document
   path: exampleSite/content/program/_index.md
   label: Programma - Programme
