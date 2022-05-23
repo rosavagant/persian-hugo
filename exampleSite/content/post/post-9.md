@@ -12,7 +12,7 @@ Français en dessous de cette page...
 
 #### DE LIEFDE
 
-Onze liefde is gestoeld in een aantal kernwoorden. Eerlijkheid, openheid, persoonlijke groei, elkaar spiegelen, compassie, toewijding, plezier, luisteren, elkaar echt zien, steun, veel te lief voor elkaar, moed, durf, uitdaging, perfectionisme, kinderlijke speelsheid, nieuwsgierigheid, intuïtie, gevoel, wijsheid, kennis, groots dromen, natuur en buiten zijn. Wij zijn een super team als je het ons vraagt!
+Onze liefde is gestoeld in een aantal kernwoorden: Eerlijkheid, openheid, persoonlijke groei, elkaar spiegelen, compassie, toewijding, plezier, luisteren, elkaar echt zien, steun, veel te lief voor elkaar, moed, durf, uitdaging, perfectionisme, kinderlijke speelsheid, nieuwsgierigheid, intuïtie, gevoel, wijsheid, kennis, groots dromen, natuur en buiten zijn. Wij zijn een super team als je het ons vraagt!
 
 Na 7 jaar samenzijn en na 5 jaar samenwonen, gaan wij ons in het echt verbinden: Eind augustus vieren wij de liefde graag met jullie! We begonnen in een roerige tijd van wonen in Parijs (Peter Jan) en een burn-out (Rosanna) en nu staan we opnieuw in een roerige tijd van het roer helemaal omgooien en voor mezelf beginnen (Rosanna) en uit het dal van de burn-out klimmen (Peter Jan). Het lijkt of we elkaar in de storm blijven vinden! Bij jou kom ik thuis.
 
