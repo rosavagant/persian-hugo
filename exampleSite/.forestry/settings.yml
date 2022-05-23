@@ -14,8 +14,8 @@ sections:
   templates:
   - post
 - type: document
-  path: exampleSite/content/invitation/_index.md
-  label: Invitation
+  path: exampleSite/content/uploads/_index.md
+  label: Uploads
 - type: document
   path: exampleSite/content/program/_index.md
   label: Programma - Programme
