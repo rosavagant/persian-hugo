@@ -8,14 +8,14 @@ menu:
     weight: 3
 
 ---
-### Locatie
+#### LOCATIE
 
 Bomenmuseum, Arboretum von Gimborn.
 https://g.page/Bomenmuseum?share
 
 Zie meer informatie op de pagina voor de locatie.
 
-## Dagplanning
+#### DAGPROGRAMMA
 
 13:00   -- Ontvangst in het Boshuis.
 

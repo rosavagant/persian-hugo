@@ -4,7 +4,7 @@ image: "/images/Screenshot_2020-09-02-21-57-13-302_com.google.android.apps.photo
 description: Wait for it.
 
 ---
-## DE LIEFDE
+#### DE LIEFDE
 Na 7 jaar samenzijn, gaan wij ons in het echt verbinden. Eind augustus vieren wij de liefde graag met jullie.
 Op de bruiloft hopen we jullie hiervan een mooi kijkje te geven in ons samenzijn.
 Kernwoorden die onze relatie weergeven zijn persoonlijke groei, elkaar spiegelen, compassie, toewijding, plezier, luisteren, elkaar echt zien, steun, moed, durf, uitdaging, perfectionisme, speelsheid, nieuwsgierigheid, intuïtie, gevoel, wijsheid, kennis, groots dromen, natuur en buiten zijn.
@@ -15,7 +15,7 @@ We hebben elkaar echt gevonden in onze liefde voor de natuur en onze wil om te g
 #### ONZE GROTE DROOM
 We dromen over jaarronde voedselvoorziening, verbetering van biodiversiteit, vasthouden van water in de bodem, natuurlijke beschaduwing, CO2 opslag, verbetering van de bodem en daarmee van de kwaliteit van het voedsel dat je ervan oogst, verbetering van wateropvang en waterkwaliteit. De concepten van voedselbossen, permacultuur en lokale teelt verankeren steeds meer in onze harten. En we zien, ruiken en proeven al het lekkers al wat wij er graag mee koken als twee amateurkoks! Onze achtergrond in Biologie zal hier zeker een rol spelen. We zagen in onze tuin na langere tijd ook in hoe onkruid helemaal geen onkruid hoeft te zijn en het mooi of nuttig kan zijn. Wat als we de natuur zijn gang laten gaan? De manier waarop we het willen toepassen, zit hierin verankerd. Met een luisterend oor naar wat de natuur ons al vertelt, kun je meewerken in plaats van vanuit het hoofd hard te werken. Creatieve manieren, anders denken en anders handelen zit in onze aard en hiermee kijken we opnieuw naar het inkopen van onze boodschappen, koken, verspilling, gebruik en het hebben van spullen en meer. Een enorme, leuke en uitdagende leerweg.
 
-## CONCEPT BRUILOFT
+#### CONCEPT BRUILOFT
 Met dit verlangen, deze passie, organiseren wij onze bruiloft. De viering van onze liefde. Voor elkaar. Voor de natuur. En we inspireren er graag anderen mee.
 Wat dit concreet inhoudt...
 
@@ -44,7 +44,7 @@ Voor het programma, zie deze pagina.
 #### DRESS CODE
 Zomer Sjiek
 
-## RSVP
+#### RSVP
 Wij kijken er enorm naar uit jullie te mogen ontvangen op deze mooie en speciale dag! Ter voorbereiding vragen wij jullie om 2 dingen te doen:
 
 ...geef je aanwezigheid door aan ons via een mail naar trouwen.tussen.de.bomen@gmail.com. Wij vragen je je kinderen thuis, bij oma en opa of bij de oppas te laten.
