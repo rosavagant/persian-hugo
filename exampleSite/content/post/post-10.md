@@ -8,7 +8,7 @@ menu:
     weight: 3
 
 ---
-## Locatie
+### Locatie
 
 Bomenmuseum, Arboretum von Gimborn.
 https://g.page/Bomenmuseum?share
