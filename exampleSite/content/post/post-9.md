@@ -33,15 +33,15 @@ Wat dit concreet inhoudt...
 
 ...het kan regenachtig zijn, ook dat hoort erbij. Wel hebben we bij slecht weer een mooi alternatief, dat geheel overdekt is.
 
-...de catering is Cloo&Leyn van het Groentelab. Zij experimenteren met lokaal eten, vergeten groenten en hebben een eigen voedselbos. Het eten zal voornamelijk veganistisch zijn met groenten en fruit uit het seizoen van lokale teelt.
+...de catering is [Cloo&Leyn](https://cloo-leyn.nl/) en hun Groentelab. Zij experimenteren met lokaal eten, vergeten groenten en hebben een eigen voedselbos. Het eten zal voornamelijk veganistisch zijn met groenten en fruit uit het seizoen van lokale teelt.
 
-...de zoetigheden worden voorzien door Sascha van Zoete Koek. Zij maakt uitsluitend veganistische pattiserie. Prachtige en smakelijke creaties.
+...de zoetigheden worden verzorgd door Sascha van [Zoete Koek](https://www.instagram.com/_zoetekoek/?hl=en) en restaurant [Kasvio](https://kasvio.nl/). Zij maakt uitsluitend veganistische pattiserie. Prachtige en smakelijke creaties.
 
 ...alle spullen een versieringen op de locatie zijn gehuurd, geleend of vanuit eigen gebruik.
 
 ...de bloemen komen uit het seizoen en zijn uit Nederland. Samengesteld door niemand minder dan Jan Hooikaas, de vader van Peter Jan.
 
-...er een geleide rondleiding zal zijn door het park met gids voor wie geïnteresseerd is.
+...er zal een geleide rondleiding zijn door het park met gids voor wie geïnteresseerd is.
 
 ...wij wensen geen tastbare cadeau's te ontvangen. Naast dat wij van alle gemakken voorzien zijn, ons huis vol is en de kans nog niet groot zien dat wij snel zullen verhuizen, hebben wij de wens om zo min mogelijk afval te creëren. Waar wij iets krijgen, zullen wij namelijk iets moeten wegdoen en dat willen wij niet.
 
