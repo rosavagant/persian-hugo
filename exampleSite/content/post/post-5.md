@@ -1,10 +1,10 @@
 ---
-title: 4.   Travel & Stay
+title: 4.   Locatie - Lieu
 image: "/images/img-20170713-wa0009.jpg"
 description: ''
 menu:
   main:
-    name: Travel & Stay
+    name: Locatie - Lieu
     weight: 4
 
 ---

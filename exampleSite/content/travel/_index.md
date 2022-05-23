@@ -1,5 +1,5 @@
 ---
-title: "Travel & Stay"
+title: "Locatie - Lieu"
 # meta description
 description: "this is meta description"
 # save as draft

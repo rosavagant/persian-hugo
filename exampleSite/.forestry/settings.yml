@@ -20,8 +20,8 @@ sections:
   path: exampleSite/content/program/_index.md
   label: Programma - Programme
 - type: document
-  path: exampleSite/content/travel/_index.md
-  label: Travel & Stay
+  path: exampleSite/content/locatie/_index.md
+  label: Locatie - Lieu
 - type: document
   path: exampleSite/content/cadeaus/_index.md
   label: Cadeaus - Cadeaux
