@@ -43,11 +43,7 @@ Wat dit concreet inhoudt...
 
 ...er zal een geleide rondleiding zijn door het park met gids voor wie geïnteresseerd is.
 
-...wij wensen geen tastbare cadeau's te ontvangen. Naast dat wij van alle gemakken voorzien zijn, ons huis vol is en de kans nog niet groot zien dat wij snel zullen verhuizen, hebben wij de wens om zo min mogelijk afval te creëren. Waar wij iets krijgen, zullen wij namelijk iets moeten wegdoen en dat willen wij niet.
-
-#### CADEAUS
-
-Zie [deze pagina](https://peterjanrosanna.netlify.app/post/post-4/) voor meer informatie.
+...wij wensen geen tastbare cadeau's te ontvangen. Zie [deze pagina](https://peterjanrosanna.netlify.app/post/post-4/) voor meer informatie.
 
 #### PROGRAMMA
 
@@ -83,10 +79,6 @@ We dromen over jaarronde voedselvoorziening,
 #### CONCEPT DE LA MARIAGE
 
 Met dit verlangen, deze passie, organis
-
-#### CADEAUX
-
-Zie [deze pagina](https://peterjanrosanna.netlify.app/post/post-4/) voor meer informatie.
 
 #### PROGRAMME
 
