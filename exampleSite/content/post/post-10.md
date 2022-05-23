@@ -28,6 +28,8 @@ menu:
 
 Er zal een gastenboek & polaroid camera zijn om wat momentjes en kiekjes van de dag voor ons achter te laten.
 
+![](/images/img-20210814-wa0012.jpg) 
+
 ***
 
 #### PROGRAMME DE JOUR
@@ -49,3 +51,5 @@ Er zal een gastenboek & polaroid camera zijn om wat momentjes en kiekjes van de 
 22:30   -- Fin.
 
 Er zal een gastenboek & polaroid camera zijn om wat momentjes en kiekjes van de dag voor ons achter te laten.
+
+![](/images/img-20180913-wa0004.jpg)
