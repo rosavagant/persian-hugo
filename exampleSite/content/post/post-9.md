@@ -42,9 +42,11 @@ PROGRAMMA
 Voor het programma, zie deze pagina.
 
 DRESS CODE
+
 Zomer Sjiek
 
 RSVP
+
 Wij kijken er enorm naar uit jullie te mogen ontvangen op deze mooie en speciale dag! Ter voorbereiding vragen wij jullie om 2 dingen te doen:
 
 ...geef je aanwezigheid door aan ons via een mail naar trouwen.tussen.de.bomen@gmail.com. Wij vragen je je kinderen thuis, bij oma en opa of bij de oppas te laten.
