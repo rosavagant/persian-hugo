@@ -43,4 +43,4 @@ Wij kijken er enorm naar uit jullie te mogen ontvangen op deze mooie en speciale
 
 ...geef je aanwezigheid door aan ons via een mail naar trouwen.tussen.de.bomen@gmail.com
 
-...voeg je top 10 favoriete nummers toe aan onze Spotify Playlist: https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c -- Je kunt ze ook naar ons mailen via trouwen.tussen.de.bomen@gmail.com samen met je aanmelding.
+...voeg je favoriete muziek toe aan deze aanmeldingsmail of direct in de Spotify Playlist: https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c
