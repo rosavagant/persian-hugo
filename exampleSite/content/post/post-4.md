@@ -10,11 +10,13 @@ menu:
 ---
 #### ONZE DROMEN
 
-Zoals je kon lezen op de welkomstpagina, hebben wij een specifiek natuurvriendelijk concept in gedachten voor deze dag. We hebben een vol huis met voldoende spullen en zijn tevreden met wat we hebben. Wij wensen zo min mogelijk afval te produceren. Daarmee komt het erop neer dat wij geen fysieke, tastbare cadeaus wensen te ontvangen. Wij zijn grootdromers en hopen binnen afzienbare tijd een groot stuk land te bezitten, waarop wij onze wensen voor natuurregeneratie en voedselbosaanleg kunnen beoefenen. Ook zouden we graag nog een huwelijksreis naar Costa Rica maken.
+Onze trouwdag is bedacht met een duurzaam concept. We wonen redelijk klein en hebben al een aardig vol huis met spullen waar we al heel gelukkig en tevreden mee zijn. We zouden daarom liever ook geen fysieke, tastbare cadeaus willen  ontvangen. Wij zijn grootdromers en hopen ooit binenkort op een eigen stuk land aan de slag te kunnen met natuurregeneratie en de aanleg van een voedselbos.
 
 #### CADEAUTIPS
 
-Mocht je graag iets aan ons geven, dan vragen we je om ons iets te geven wat van waarde is. Simpelweg geld of iets wat waardevast is, zoals goud, zilver, of stabiele valuta naar keuze. Dit kunnen wij onwijs goed gebruiken om onze droom of huewelijksreis te verwezenlijken. Zolang het maar geen cadeaukaart betreft die we binnen een bepaalde tijd en op een specifieke locatie dienen te innen. Die verlopen en geven ons niet de vrijheid om de waarde in te ruilen op de manier die wij prettig vinden.
+Mocht je graag iets aan ons geven, dan vragen we je om ons iets te geven wat van waarde is. Een envelopje is altijd leuk, maar het mag ook iets anders zijn wat waardevast is, zoals goud, zilver, of stabiele valuta naar keuze. We zouden het leuk vinden om nog een (kleine) huwelijksreis te maken en ook verder te bouwen aan onze droom.
+
+Liever geen cadeaubonnen of giftcards; helaas verloopt er her en der nog wel eens een bon bij ons.
 
 #### LEUK EXTRA'TJE
 
