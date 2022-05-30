@@ -12,11 +12,11 @@ menu:
 
 13:00   -- Ontvangst in het Boshuis.
 
-14:00   -- Trouwceremonie in het open veld naast de tent.
+14:00   -- Trouwceremonie.
 
-15:00   -- Receptie bij de tent.
+15:00   -- Receptie, taart en proosten.
 
-15:30   -- Vrije middag voor wandeling, rondleiding of spelactiviteiten.
+15:30   -- Vrije middag voor een wandeling, rondleiding of spelletje.
 
 17:00   -- Aperitief & Walking dinner.
 
@@ -28,7 +28,7 @@ menu:
 
 Er zal een gastenboek & polaroid camera zijn om wat momentjes en kiekjes van de dag voor ons achter te laten.
 
-![](/images/img-20210814-wa0012.jpg) 
+![](/images/img-20210814-wa0012.jpg)
 
 ***
 
@@ -36,11 +36,11 @@ Er zal een gastenboek & polaroid camera zijn om wat momentjes en kiekjes van de 
 
 13:00   -- Ontvangst in het Boshuis.
 
-14:00   -- Trouwceremonie in het open veld naast de tent.
+14:00   -- Trouwceremonie.
 
-15:00   -- Receptie bij de tent.
+15:00   -- Receptie, taart en proosten.
 
-15:30   -- Vrije middag voor wandeling, rondleiding of spelactiviteiten.
+15:30   -- Vrije middag voor een wandeling, rondleiding of spelletje.
 
 17:00   -- Aperitief & Walking dinner.
 
