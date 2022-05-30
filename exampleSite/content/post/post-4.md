@@ -10,7 +10,7 @@ menu:
 ---
 #### ONZE DROMEN
 
-Onze trouwdag is bedacht met een duurzaam concept. We wonen redelijk klein en hebben al een aardig vol huis met spullen waar we al heel gelukkig en tevreden mee zijn. We zouden daarom liever ook geen fysieke, tastbare cadeaus willen  ontvangen. Wij zijn grootdromers en hopen ooit binenkort op een eigen stuk land aan de slag te kunnen met natuurregeneratie en de aanleg van een voedselbos.
+Onze trouwdag is bedacht met een duurzaam concept. We wonen redelijk klein en hebben al een aardig vol huis met spullen waar we al heel gelukkig en tevreden mee zijn. We zouden daarom liever ook geen fysieke, tastbare cadeaus willen ontvangen. Wij zijn grootdromers en hopen ooit binnenkort op een eigen stuk land aan de slag te kunnen met natuurregeneratie en de aanleg van een voedselbos.
 
 #### CADEAUTIPS
 
