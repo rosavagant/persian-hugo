@@ -10,7 +10,7 @@ menu:
 ---
 #### DE LOCATIE
 
-Het Nationale Bomenmuseum heette voorheen het Arboretum von Gimborn, vernoemd naar de Max von Gimborn, die het park aanlegde. Het is een parkachtig landschap van 29 hectare, doorsneden met vijvers die worden gevoed met helder kwelwater van de Utrechtse Heuvelrug. Er staan ruim 3000 soorten bomen en struiken, afkomstig uit de hele wereld met vele doorkijkjes, een grote heidetuin, een enorme boomhut en een natuurspeeltuin. Max von Gimborn, de initiële eigenaar van het gebied, hield van naaldbomen, coniferen en wintergroene struiken (bijv. Rhododendron). Daarmee legde hij tussen 1924 en zijn overlijden in 1964 de basis aan van het huidige park. Het park was daarna in eigendom van de Universiteit Utrecht. Dit terwijl Peter Jan en ik nooit van het park gehoord hadden tot vorig jaar september en wij onze bachelor en master aan de UU al enige tijd hebben afgerond. Voor meer informatie over het park, zie hun website: https://www.bomenmuseum.nl/.
+Het Nationale Bomenmuseum heette voorheen het Arboretum von Gimborn, vernoemd naar de Max von Gimborn, die het park aanlegde. Het is een parkachtig landschap van 29 hectare, doorsneden met vijvers die worden gevoed met helder kwelwater van de Utrechtse Heuvelrug. Er staan ruim 3000 soorten bomen en struiken, afkomstig uit de hele wereld met vele doorkijkjes, een grote heidetuin, een enorme boomhut en een natuurspeeltuin. Max von Gimborn, de initiële eigenaar van het gebied, hield van naaldbomen, coniferen en wintergroene struiken (bijv. Rhododendron). Daarmee legde hij tussen 1924 en zijn overlijden in 1964 de basis aan van het huidige park. Het park was daarna lange tijd in eigendom van de Universiteit Utrecht. Verrassend, want wij hadden zelf nooit van het park gehoord hadden tot afgelopen september en dat terwijl we allebei onze bachelor en master aan de UU hadden gedaan. Voor meer informatie over het park, zie hun website: https://www.bomenmuseum.nl/.
 
 #### PLATTEGROND
 
@@ -44,7 +44,7 @@ Het thema is zomer sjiek. Let wel op dat het een park betreft en naaldhakken daa
 
 #### TIPS OM TE OVERNACHTEN
 
-1. Wij verblijven in hotel Buitenplaats de Bergse Bossen https://www.bergsebossen.nl/, niet per se op rolafstand
+1. Wij verblijven in hotel Buitenplaats de Bergse Bossen https://www.bergsebossen.nl/, niet per see op rolafstand
 2. Landgoed De Horst http://www.landgoeddehorst.nl/
 3. Landgoed Zonheuvel https://www.landgoedzonheuvel.nl/
 
