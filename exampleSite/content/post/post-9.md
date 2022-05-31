@@ -22,9 +22,13 @@ Na 7 jaar samenzijn en na 5 jaar samenwonen, gaan wij ons in het echt verbinden:
 
 We hebben elkaar echt gevonden in onze liefde voor de natuur en onze wil om te groeien naar de natuur toe. Het voelt als avontuur en uitdaging. En wij houden beiden wel van een uitdaging! Dit houdt in dat we met speelsheid en nieuwsgierigheid elke dag weer iets nieuws leren over de natuur dichter bij ons halen. We begonnen met een paar planten in huis. Rosanna vond al gauw 'een paar' niet genoeg en ons huis werd een enorme Urban Jungle. In de eerste week van samenwonen legden we al direct een tuin aan voor en achter ons appartement. We hielden van het ontwerpen ervan, de planten aanleggen en telkens nieuwe invullingen vinden. We begonnen met plantjes zoals we dat kenden in tuinen, zoals bij onze ouders. Na enige tijd is er een verlangen ontstaan om een groter stuk land te bezitten, waar we meer onze gang kunnen gaan. En dit keer niet per se met de gangbare tuinplanten; we hebben namelijk een droom.
 
+![](/images/img_20220527_171623.jpg)
+
 #### ONZE GROTE DROOM
 
 Wat ons heel leuk lijkt is om te werken aan jaarronde voedselvoorziening, verbetering van biodiversiteit, vasthouden van water in de bodem, natuurlijke beschaduwing, CO2 opslag, verbetering van de bodem en daarmee van de kwaliteit van het voedsel dat je ervan oogst, verbetering van wateropvang en waterkwaliteit. De concepten van voedselbossen, permacultuur en lokale teelt verankeren zich steeds meer in onze harten. Nu al zien, ruiken en proeven we al het lekkers wat wij er graag mee koken als twee amateurkoks! Onze achtergrond in biologie zal hier zeker een rol in spelen. We zagen in onze tuin na langere tijd ook in hoe onkruid helemaal geen onkruid hoeft te zijn en het mooi of nuttig kan zijn. Wat als we de natuur zijn gang laten gaan? De manier waarop we het willen toepassen, zit hierin verankerd. Met een luisterend oor naar wat de natuur ons al vertelt, kun je meewerken in plaats van vanuit het hoofd hard te werken. Creatieve manieren, anders denken en anders handelen zit in onze aard en hiermee kijken we opnieuw naar het inkopen van onze boodschappen, koken, verspilling, gebruik en het hebben van spullen en meer. Een enorme, leuke en uitdagende leerweg.
+
+![](/images/img_20220527_171245.jpg)
 
 #### HET CONCEPT VAN DE BRUILOFT
 
