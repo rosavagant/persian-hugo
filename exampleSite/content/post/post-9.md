@@ -71,31 +71,47 @@ Wij kijken er enorm naar uit jullie te mogen ontvangen op deze mooie en speciale
 
 #### L'AMOUR
 
-Na 7 jaar samenzijn, gaan wij ons in het echt verbinden.
+Notre amour repose sur un certain nombre de mots clés : honnêteté, ouverture, croissance personnelle, miroir l'un de l'autre, compassion, dévouement, plaisir, écoute, se voir vraiment, soutien, trop gentils les uns envers les autres, courage, audace, défi, perfectionnisme , espièglerie enfantine, curiosité, intuition, ressenti, sagesse, savoir, rêver grand, nature et plein air. Nous sommes une super équipe si vous nous demandez !
+
+Après 7 ans d'être ensemble et après 5 ans de vie commune, nous allons nous connecter dans la vraie vie : Fin août nous voudrions fêter l'amour avec vous ! Nous avons commencé dans une période turbulente de vie à Paris (Peter Jan) et un burn-out (Rosanna) et maintenant nous sommes à nouveau dans une période turbulente où nous tournons complètement la barre et partons pour nous-mêmes (Rosanna) et hors de la vallée de brûlure -hors escalade (Peter Jan). Il semble que nous continuons à nous retrouver dans la tempête ! Je rentre chez toi.
 
 #### NATURE
 
-We hebben elkaar echt gevonden in onze liefde voor de natuur en onze wil om te groeien naar de natuur toe.
+Nous nous sommes vraiment retrouvés dans notre amour de la nature et notre volonté de grandir vers la nature. C'est comme une aventure et un défi. Et nous aimons tous les deux les défis ! Cela signifie qu'avec espièglerie et curiosité, nous apprenons chaque jour quelque chose de nouveau sur la nature et la rapprochons de nous. Nous avons commencé avec quelques plantes dans la maison. Rosanna a rapidement trouvé que "quelques-uns" ne suffisaient pas et notre maison est devenue une immense jungle urbaine. Dès la première semaine de vie commune, nous avons immédiatement aménagé un jardin devant et derrière notre appartement. Nous avons adoré le concevoir, créer les plantes et toujours trouver de nouvelles utilisations. Nous avons commencé avec les plantes telles que nous les connaissions dans les jardins, comme chez nos parents. Après un certain temps, le désir s'est fait sentir de posséder un terrain plus grand, où nous pourrons faire davantage notre travail. Et cette fois pas forcément avec les plantes de jardin habituelles ; nous avons un rêve.
 
-#### NOTRE RÈVE
+#### NOTRE GRAND RÈVE
 
-We dromen over jaarronde voedselvoorziening,
+Nous pensons qu'il serait très amusant de travailler sur l'approvisionnement alimentaire tout au long de l'année, l'amélioration de la biodiversité, la rétention d'eau dans le sol, l'ombrage naturel, le stockage du CO2, l'amélioration du sol et donc la qualité de la nourriture que vous en récoltez, l'amélioration de la rétention d'eau. et la qualité de l'eau. Les concepts de forêts alimentaires, de permaculture et de culture locale sont de plus en plus ancrés dans nos cœurs. On peut déjà voir, sentir et goûter toutes les douceurs qu'on aime cuisiner avec comme deux chefs amateurs ! Notre formation en biologie jouera certainement un rôle à cet égard. Après un long moment dans notre jardin, nous avons également vu comment les mauvaises herbes ne doivent pas du tout être des mauvaises herbes et que cela peut être beau ou utile. Et si on laissait faire la nature ? La manière dont nous voulons l'appliquer est ancrée là-dedans. Avec une oreille attentive à ce que la nature nous dit déjà, vous pouvez coopérer au lieu de travailler dur de la tête. Des façons créatives, penser différemment et agir différemment sont dans notre nature et avec cela, nous envisageons à nouveau d'acheter nos produits d'épicerie, de cuisiner, de gaspiller, d'utiliser et d'avoir des choses et plus encore. Un parcours d'apprentissage énorme, amusant et stimulant.
 
-#### CONCEPT DE LA MARIAGE
+#### LE CONCEPT DE MARIAGE
 
-Met dit verlangen, deze passie, organis
+Avec cette passion et ce regard tourné vers l'avenir, nous organisons notre mariage. La célébration de notre amour. L'un pour l'autre. Pour la nature. Nous aimerions inspirer les autres avec cela. Qu'est-ce que cela signifie concrètement...
 
-#### PROGRAMME
+...notre mariage a lieu dans la verdure, parmi les arbres et, espérons-le, au soleil, entouré du chant des oiseaux et de l'odeur des fleurs, des feuilles et de l'extérieur. Il y a une grande tente extensible avec une terrasse comme surface. Le chemin qui y mène est en herbe, en terre ou en gravier. Il est donc utile d'ajuster votre choix de chaussures et de vêtements en conséquence.
 
-Voor het programma, zie [deze pagina](https://peterjanrosanna.netlify.app/post/post-10/).
+...il peut pleuvoir. Cela en fait aussi partie. Heureusement, par mauvais temps, nous avons une belle alternative entièrement couverte.
+
+...Cloo&Leyn et leur Vegetable Lab nous surprendront pendant la journée avec leurs savoureuses créations de collations et de boissons. Ils aiment expérimenter la nourriture locale, les produits inhabituels, les légumes (oubliés) et leur propre culture de leur propre forêt alimentaire. La nourriture sera principalement végétale avec des fruits et légumes de saison et cultivés localement. En collaboration avec Liesbeth van de Wiel qui nous aide à arranger les choses difficiles entourant le mariage.
+
+...les sucreries sont fournies par Sascha van Zoete Koek, elle travaille également au restaurant **Kasvio** (pourboire de dîner !). Elle fait exclusivement des pâtisseries végétaliennes. De belles et savoureuses créations.
+
+... tous les objets et décorations de l'emplacement sont loués, empruntés ou pour un usage personnel dans la mesure du possible.
+
+...le choix des fleurs et de la décoration s'adapte aussi le plus possible à la saison. Compilé par nul autre que Jan Hooikaas, le père de Peter Jan.
+
+...il y aura une visite guidée du parc avec un guide. Si vous êtes intéressé, c'est maintenant votre chance!
+
+...nous préférons ne pas recevoir de cadeaux tangibles. Voir cette page pour plus d'informations.
+
+Pour le programme, voir [cette page](https://peterjanrosanna.netlify.app/post/post-10/).
 
 #### CODE VESTIMENTAIRE
 
-Zomer Sjiek
+Chic d'été
 
 #### RSVP
 
-Wij kijken er enorm naar uit jullie te mogen ontvangen op deze mooie en speciale dag! Ter voorbereiding vragen wij jullie om 2 dingen te doen:
+Nous nous réjouissons de vous accueillir en cette belle et spéciale journée ! En préparation nous vous demandons de faire 2 choses :
 
-* Geef je aanwezigheid door aan ons via een mail naar trouwen.tussen.de.bomen@gmail.com. Wij vragen je je kinderen thuis, bij oma en opa of bij de oppas te laten.
-* Voeg je favoriete muziek toe aan deze aanmeldingsmail of direct in de Spotify Playlist: [PJ&ROOS Wedding Requests Playlist.](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c)
+* Avertissez-nous de votre présence en envoyant un e-mail à wedding.between.de.bomen@gmail.com. Nous vous demandons de laisser les enfants à la maison, avec grand-mère et grand-père ou avec la baby-sitter.
+* Ajoutez votre musique préférée à cet e-mail d'inscription ou directement à la liste de lecture Spotify : liste de lecture des demandes de mariage PJ&ROOS.
