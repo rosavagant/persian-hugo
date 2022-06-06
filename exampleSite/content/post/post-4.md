@@ -24,6 +24,8 @@ Wij zouden het ontzettend leuk vinden als je met ons een foto of kaartje deelt v
 
 ![](/images/img_20220212_154339.jpg)
 
+***
+
 #### NOS RÊVES
 
 Notre journée de mariage a été conçue avec un concept durable. Nous vivons assez petit et avons déjà une maison pleine de choses dont nous sommes très heureux et satisfaits. Nous préférerions donc ne pas recevoir des cadeaux physiques et tangibles. Nous sommes de grands rêveurs et espérons pouvoir un jour bientôt travailler à la régénération de la nature et à la création d'une forêt nourricière sur notre propre terrain.
