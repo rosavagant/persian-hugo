@@ -32,24 +32,24 @@ Er zal een gastenboek & polaroid camera zijn om wat momentjes en kiekjes van de 
 
 ***
 
-#### PROGRAMME DE JOUR
+#### PROGRAMME DU JOUR
 
-13:00   -- Ontvangst in het Boshuis.
+13h00 -- Réception dans la maison forestière.
 
-14:00   -- Trouwceremonie.
+14h00 -- Cérémonie de mariage.
 
-15:00   -- Receptie, taart en proosten.
+15h00 -- Réception, gâteau et toast.
 
-15:30   -- Vrije middag voor een wandeling, rondleiding of spelletje.
+15h30 -- Après-midi libre pour une promenade, une visite ou un jeu.
 
-17:00   -- Aperitief & Walking dinner.
+17h00 -- Apéritif & Walking dinner.
 
-18:00   -- Shared dining aan tafel.
+18h00 -- Dîner partagé à table.
 
-20:30   -- Borrel & Silent disco.
+20h30 -- Boissons et discothèque silencieuse.
 
-22:30   -- Fin.
+22h30 -- Fin.
 
-Er zal een gastenboek & polaroid camera zijn om wat momentjes en kiekjes van de dag voor ons achter te laten.
+Il y aura un livre d'or et un appareil photo polaroid pour nous laisser quelques moments et clichés de la journée.
 
 ![](/images/img-20180913-wa0004.jpg)
