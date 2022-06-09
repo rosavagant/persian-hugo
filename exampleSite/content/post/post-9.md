@@ -10,6 +10,8 @@ gallery:
 
 Français en dessous de cette page...
 
+stukjes opvoeren/toasts en speeches even stuk over schrijven
+
 #### DE LIEFDE
 
 Onze liefde is gestoeld in een aantal kernwoorden: Eerlijkheid, openheid, persoonlijke groei, elkaar spiegelen, compassie, toewijding, plezier, luisteren, elkaar echt zien, steun, veel te lief voor elkaar, moed, durf, uitdaging, perfectionisme, kinderlijke speelsheid, nieuwsgierigheid, intuïtie, gevoel, wijsheid, kennis, groots dromen, natuur en buiten zijn. Wij zijn een super team als je het ons vraagt!
