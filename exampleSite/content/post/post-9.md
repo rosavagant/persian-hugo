@@ -42,7 +42,7 @@ Met deze passie en blik op de toekomst, organiseren wij onze bruiloft. De vierin
 
 ...[**Cloo&Leyn**](https://cloo-leyn.nl/) en hun Groentelab zullen ons gedurende de dag verrassen met hun smakelijke creaties aan hapjes en drankjes. Zij experimenteren graag met lokaal eten, ongewone producten, (vergeten) groenten en eigen kweek uit hun eigen voedselbos. Het eten zal voornamelijk plantaardig zijn met groenten en fruit uit het seizoen en van lokale teelt. In samenwerking met Liesbeth van de Wiel die ons helpt met het regelen van de grove zaken rondom de bruiloft.
 
-...de zoetigheden worden verzorgd door Sascha van [**Zoete Koek**](https://www.instagram.com/_zoetekoek/?hl=en), zij is ook werkzaam in restaurant [**Kasvio **](https://kasvio.nl/)(diner tip!). Zij maakt uitsluitend veganistische pattiserie. Prachtige en smakelijke creaties.
+...de zoetigheden worden verzorgd door Sascha van [**Zoete Koek**](https://www.instagram.com/_zoetekoek/?hl=en), zij is ook werkzaam in restaurant [**Kasvio**](https://kasvio.nl/) (diner tip!). Zij maakt uitsluitend veganistische pattiserie. Prachtige en smakelijke creaties.
 
 ...alle spullen een versieringen op de locatie zijn zoveel mogelijk gehuurd, geleend of vanuit eigen gebruik.
 
@@ -105,7 +105,7 @@ Avec cette passion et ce regard tourné vers l'avenir, nous organisons notre mar
 
 ...nous préférons ne pas recevoir de cadeaux tangibles. Voir cette page pour plus d'informations.
 
-Pour le programme, voir [cette page](https://peterjanrosanna.netlify.app/post/post-10/).
+Pour le programme, voir [**cette page**](https://peterjanrosanna.netlify.app/post/post-10/).
 
 #### CODE VESTIMENTAIRE
 
