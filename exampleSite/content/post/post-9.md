@@ -60,9 +60,10 @@ Zomer Sjiek
 
 #### RSVP
 
-Wij kijken er enorm naar uit jullie te mogen ontvangen op deze mooie en speciale dag! Ter voorbereiding vragen wij jullie om 2 dingen te doen:
+Wij kijken er enorm naar uit jullie te mogen ontvangen op deze mooie en speciale dag! Ter voorbereiding vragen wij jullie om 3 dingen te doen:
 
-* Geef je aanwezigheid door aan ons via een mail naar trouwen.tussen.de.bomen@gmail.com. Wij vragen je de kinderen thuis, bij oma en opa of bij de oppas te laten.
+* Geef je aanwezigheid door aan ons via een mail naar trouwen.tussen.de.bomen@gmail.com of [**vul het formulier op de contactpagina in**](https://peterjanrosanna.netlify.app/contact/).
+* Wij vragen je de kinderen thuis, bij oma en opa of bij de oppas te laten.
 * Voeg je favoriete muziek toe aan deze aanmeldingsmail of direct in de Spotify Playlist: [**PJ&ROOS Wedding Requests Playlist**.](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c "PJ&ROOS Wedding Requests Playlist")
 
 ![](/images/img_20220515_174756.jpg)
@@ -113,7 +114,8 @@ Chic d'été
 
 #### RSVP
 
-Nous nous réjouissons de vous accueillir en cette belle et spéciale journée ! En préparation nous vous demandons de faire 2 choses :
+Nous nous réjouissons de vous accueillir en cette belle et spéciale journée ! En préparation nous vous demandons de faire 3 choses :
 
-* Avertissez-nous de votre présence en envoyant un e-mail à wedding.between.de.bomen@gmail.com. Nous vous demandons de laisser les enfants à la maison, avec grand-mère et grand-père ou avec la baby-sitter.
+* Avertissez-nous de votre présence en envoyant un e-mail à wedding.between.de.bomen@gmail.com ou [**remplissez la formulaire sur la page de contact**](https://peterjanrosanna.netlify.app/contact/).
+* Nous vous demandons de laisser les enfants à la maison, avec grand-mère et grand-père ou avec la baby-sitter.
 * Ajoutez votre musique préférée à cet e-mail d'inscription ou directement à la liste de lecture Spotify : [**liste de lecture des demandes de mariage PJ&ROOS**](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c).
