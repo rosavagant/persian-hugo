@@ -39,3 +39,5 @@ De préférence pas de chèques cadeaux ni de cartes cadeaux; Malheureusement, i
 #### BEAU PLUS
 
 Nous serions ravis que vous partagiez avec nous une photo ou une carte de votre endroit extérieur préféré, de votre moment nature préféré, d'un conseil de plein air ou d'un conseil de jardin.
+
+![](/images/img_20220527_171626.jpg)
