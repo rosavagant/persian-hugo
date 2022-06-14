@@ -10,8 +10,6 @@ gallery:
 
 Français en dessous de cette page...
 
-stukjes opvoeren/toasts en speeches even stuk over schrijven
-
 #### DE LIEFDE
 
 Onze liefde is gestoeld in een aantal kernwoorden: Eerlijkheid, openheid, persoonlijke groei, elkaar spiegelen, compassie, toewijding, plezier, luisteren, elkaar echt zien, steun, veel te lief voor elkaar, moed, durf, uitdaging, perfectionisme, kinderlijke speelsheid, nieuwsgierigheid, intuïtie, gevoel, wijsheid, kennis, groots dromen, natuur en buiten zijn. Wij zijn een super team als je het ons vraagt!
@@ -60,11 +58,13 @@ Zomer Sjiek
 
 #### RSVP
 
-Wij kijken er enorm naar uit jullie te mogen ontvangen op deze mooie en speciale dag! Ter voorbereiding vragen wij jullie om 3 dingen te doen:
+Wij kijken er enorm naar uit jullie te mogen ontvangen op deze mooie en speciale dag!  
+Ter voorbereiding vragen wij jullie om de volgende 4 dingen:
 
-* Geef je aanwezigheid door aan ons via een mail naar trouwen.tussen.de.bomen@gmail.com of [**vul het formulier op de contactpagina in**](https://peterjanrosanna.netlify.app/contact/).
-* Wij vragen je de kinderen thuis, bij oma en opa of bij de oppas te laten.
-* Voeg je favoriete muziek toe aan deze aanmeldingsmail of direct in de Spotify Playlist: [**PJ&ROOS Wedding Requests Playlist**.](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c "PJ&ROOS Wedding Requests Playlist")
+* Geef je aanwezigheid door via een mail naar trouwen.tussen.de.bomen@gmail.com of [**vul het formulier op de contactpagina in**](https://peterjanrosanna.netlify.app/contact/).
+* Als je een stukje wilt voordragen, vragen we je om contact op te nemen met de mooie Kim Meijer, onze ceremoniemeesteres, door simpelweg het contactformulier te gebruiken of een e-mail te sturen die je vervolgens aan haar richt.
+* Wij vragen je kinderen thuis, bij oma en opa of bij de oppas te laten.
+* Voeg je favoriete muziek toe aan je aanmeldingsmail of direct in de [**Spotify Playlist**](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c): [**PJ&ROOS Wedding Requests Playlist**.](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c "PJ&ROOS Wedding Requests Playlist")
 
 ![](/images/img_20220515_174756.jpg)
 
@@ -114,8 +114,9 @@ Chic d'été
 
 #### RSVP
 
-Nous nous réjouissons de vous accueillir en cette belle et spéciale journée ! En préparation nous vous demandons de faire 3 choses :
+Nous nous réjouissons de vous accueillir en cette belle et spéciale journée ! En préparation nous vous demandons de faire 4 choses :
 
 * Avertissez-nous de votre présence en envoyant un e-mail à wedding.between.de.bomen@gmail.com ou [**remplissez la formulaire sur la page de contact**](https://peterjanrosanna.netlify.app/contact/).
+* Si vous souhaitez nominer une pièce, nous vous demandons de contacter la belle Kim Meijer, notre maître de cérémonie, en utilisant simplement le formulaire de contact ou en lui envoyant un email.
 * Nous vous demandons de laisser les enfants à la maison, avec grand-mère et grand-père ou avec la baby-sitter.
-* Ajoutez votre musique préférée à cet e-mail d'inscription ou directement à la liste de lecture Spotify : [**liste de lecture des demandes de mariage PJ&ROOS**](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c).
+* Ajoutez votre musique préférée à cet e-mail d'inscription ou directement à [**la liste de lecture Spotify**](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c): [**PJ&ROOS Wedding Requests Playlist**](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c "PJ&ROOS Wedding Requests Playlist").
