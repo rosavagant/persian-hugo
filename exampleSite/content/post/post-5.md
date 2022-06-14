@@ -91,3 +91,5 @@ Le thème est l'été chic. Veuillez noter qu'il s'agit d'un parc et que les tal
 1. Nous restons à l'hôtel Buitenplaats de Bergse Bossen [**https://www.bergsebossen.nl/**](https://www.bomenmuseum.nl/ "https://www.bomenmuseum.nl/")**,** pas nécessairement à distance de marche
 2. Domaine De Horst [**http://www.landgoeddehorst.nl/**](https://www.bomenmuseum.nl/. "https://www.bomenmuseum.nl/.")
 3. Domaine de Zonheuvel [**https://www.landgoedzonheuvel.nl/**](https://www.bomenmuseum.nl/. "https://www.bomenmuseum.nl/.")
+
+![](/images/img_20220527_171626.jpg)
