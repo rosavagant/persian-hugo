@@ -94,7 +94,7 @@ Avec cette passion et ce regard tourné vers l'avenir, nous organisons notre mar
 
 ...il peut pleuvoir. Cela en fait aussi partie. Heureusement, par mauvais temps, nous avons une belle alternative entièrement couverte.
 
-...[Cloo&Leyn et leur Vegetable Lab](https://cloo-leyn.nl/) nous surprendront pendant la journée avec leurs savoureuses créations de collations et de boissons. Ils aiment expérimenter la nourriture locale, les produits inhabituels, les légumes (oubliés) et leur propre culture de leur propre forêt alimentaire. La nourriture sera principalement végétale avec des fruits et légumes de saison et cultivés localement. En collaboration avec Liesbeth van de Wiel qui nous aide à arranger les choses difficiles entourant le mariage.
+...[**Cloo&Leyn et leur laboratoire de légumes**](https://cloo-leyn.nl/) nous surprendront pendant la journée avec leurs savoureuses créations de collations et de boissons. Ils aiment expérimenter la nourriture locale, les produits inhabituels, les légumes (oubliés) et leur propre culture de leur propre forêt alimentaire. La nourriture sera principalement végétale avec des fruits et légumes de saison et cultivés localement. En collaboration avec Liesbeth van de Wiel qui nous aide à arranger les choses difficiles entourant le mariage.
 
 ...les sucreries sont fournies par Sascha de [**Zoete Koek**](https://www.instagram.com/_zoetekoek/?hl=en), elle travaille également au restaurant [**Kasvio**](https://kasvio.nl/) (pourboire de dîner !). Elle fait exclusivement des pâtisseries végétaliennes. De belles et savoureuses créations.
 
