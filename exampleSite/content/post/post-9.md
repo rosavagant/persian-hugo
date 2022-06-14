@@ -93,9 +93,9 @@ Avec cette passion et ce regard tourné vers l'avenir, nous organisons notre mar
 
 ...il peut pleuvoir. Cela en fait aussi partie. Heureusement, par mauvais temps, nous avons une belle alternative entièrement couverte.
 
-...Cloo&Leyn et leur Vegetable Lab nous surprendront pendant la journée avec leurs savoureuses créations de collations et de boissons. Ils aiment expérimenter la nourriture locale, les produits inhabituels, les légumes (oubliés) et leur propre culture de leur propre forêt alimentaire. La nourriture sera principalement végétale avec des fruits et légumes de saison et cultivés localement. En collaboration avec Liesbeth van de Wiel qui nous aide à arranger les choses difficiles entourant le mariage.
+...[Cloo&Leyn et leur Vegetable Lab](https://cloo-leyn.nl/) nous surprendront pendant la journée avec leurs savoureuses créations de collations et de boissons. Ils aiment expérimenter la nourriture locale, les produits inhabituels, les légumes (oubliés) et leur propre culture de leur propre forêt alimentaire. La nourriture sera principalement végétale avec des fruits et légumes de saison et cultivés localement. En collaboration avec Liesbeth van de Wiel qui nous aide à arranger les choses difficiles entourant le mariage.
 
-...les sucreries sont fournies par Sascha van Zoete Koek, elle travaille également au restaurant **Kasvio** (pourboire de dîner !). Elle fait exclusivement des pâtisseries végétaliennes. De belles et savoureuses créations.
+...les sucreries sont fournies par Sascha de [**Zoete Koek**](https://www.instagram.com/_zoetekoek/?hl=en), elle travaille également au restaurant [**Kasvio**](https://kasvio.nl/) (pourboire de dîner !). Elle fait exclusivement des pâtisseries végétaliennes. De belles et savoureuses créations.
 
 ... tous les objets et décorations de l'emplacement sont loués, empruntés ou pour un usage personnel dans la mesure du possible.
 
@@ -103,7 +103,7 @@ Avec cette passion et ce regard tourné vers l'avenir, nous organisons notre mar
 
 ...il y aura une visite guidée du parc avec un guide. Si vous êtes intéressé, c'est maintenant votre chance!
 
-...nous préférons ne pas recevoir de cadeaux tangibles. Voir cette page pour plus d'informations.
+...nous préférons ne pas recevoir de cadeaux tangibles. Voir [**cette page**](https://peterjanrosanna.netlify.app/post/post-4/) pour plus d'informations.
 
 Pour le programme, voir [**cette page**](https://peterjanrosanna.netlify.app/post/post-10/).
 
@@ -116,4 +116,4 @@ Chic d'été
 Nous nous réjouissons de vous accueillir en cette belle et spéciale journée ! En préparation nous vous demandons de faire 2 choses :
 
 * Avertissez-nous de votre présence en envoyant un e-mail à wedding.between.de.bomen@gmail.com. Nous vous demandons de laisser les enfants à la maison, avec grand-mère et grand-père ou avec la baby-sitter.
-* Ajoutez votre musique préférée à cet e-mail d'inscription ou directement à la liste de lecture Spotify : liste de lecture des demandes de mariage PJ&ROOS.
+* Ajoutez votre musique préférée à cet e-mail d'inscription ou directement à la liste de lecture Spotify : [**liste de lecture des demandes de mariage PJ&ROOS**](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c).
