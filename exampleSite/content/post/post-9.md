@@ -62,7 +62,7 @@ Wij kijken er enorm naar uit jullie te mogen ontvangen op deze mooie en speciale
 Ter voorbereiding vragen wij jullie om de volgende 4 dingen:
 
 * Geef je aanwezigheid door via een mail naar trouwen.tussen.de.bomen@gmail.com of [**vul het formulier op de contactpagina in**](https://peterjanrosanna.netlify.app/contact/).
-* Als je een stukje wilt voordragen, vragen we je om contact op te nemen met de mooie Kim Meijer, onze ceremoniemeesteres, door simpelweg het contactformulier te gebruiken of een e-mail te sturen die je vervolgens aan haar richt.
+* Als je een stukje wilt voordragen, vragen we je om contact op te nemen met de mooie Kim Meijer, onze ceremoniemeesteres, door simpelweg het contactformulier te gebruiken of een e-mail te sturen die je vervolgens aan haar richt. _Let wel op: We hebben geen beamer/presentatie mogelijkheid tot onze beschikking op de locatie, enkel een microfoon._
 * Wij vragen je kinderen thuis, bij oma en opa of bij de oppas te laten.
 * Voeg je favoriete muziek toe aan je aanmeldingsmail of direct in de [**Spotify Playlist**](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c): [**PJ&ROOS Wedding Requests Playlist**.](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c "PJ&ROOS Wedding Requests Playlist")
 
@@ -117,6 +117,6 @@ Chic d'été
 Nous nous réjouissons de vous accueillir en cette belle et spéciale journée ! En préparation nous vous demandons de faire 4 choses :
 
 * Avertissez-nous de votre présence en envoyant un e-mail à wedding.between.de.bomen@gmail.com ou [**remplissez la formulaire sur la page de contact**](https://peterjanrosanna.netlify.app/contact/).
-* Si vous souhaitez nominer une pièce, nous vous demandons de contacter la belle Kim Meijer, notre maître de cérémonie, en utilisant simplement le formulaire de contact ou en lui envoyant un email.
+* Si vous souhaitez nominer une pièce, nous vous demandons de contacter la belle Kim Meijer, notre maître de cérémonie, en utilisant simplement le formulaire de contact ou en lui envoyant un email. _Veuillez noter: nous n'avons pas de vidéoprojecteur/installation de présentation à notre disposition sur place, seulement un microphone._
 * Nous vous demandons de laisser les enfants à la maison, avec grand-mère et grand-père ou avec la baby-sitter.
 * Ajoutez votre musique préférée à cet e-mail d'inscription ou directement à [**la liste de lecture Spotify**](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c): [**PJ&ROOS Wedding Requests Playlist**](https://open.spotify.com/playlist/0GHY1fGdvU6bQpLyV5RMff?si=ecaee2e2e45f427f&pt=36ed066f167081f083351141ed6e3d3c "PJ&ROOS Wedding Requests Playlist").
