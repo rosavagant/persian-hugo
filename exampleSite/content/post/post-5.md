@@ -44,9 +44,9 @@ Het thema is zomer sjiek. Let wel op dat het een park betreft en naaldhakken daa
 
 #### TIPS OM TE OVERNACHTEN
 
-1. Wij verblijven in hotel Buitenplaats de Bergse Bossen https://www.bergsebossen.nl/, niet per see op rolafstand
-2. Landgoed De Horst http://www.landgoeddehorst.nl/
-3. Landgoed Zonheuvel https://www.landgoedzonheuvel.nl/
+1. Wij verblijven in hotel Buitenplaats de Bergse Bossen [https://www.bergsebossen.nl/](https://www.bergsebossen.nl/), niet per see op rolafstand
+2. Landgoed De Horst [http://www.landgoeddehorst.nl/](http://www.landgoeddehorst.nl/)
+3. Landgoed Zonheuvel [https://www.landgoedzonheuvel.nl/](https://www.landgoedzonheuvel.nl/)
 
 ![](/images/img-20210902-wa0006.jpg)
 
@@ -88,6 +88,6 @@ Le thème est l'été chic. Veuillez noter qu'il s'agit d'un parc et que les tal
 
 #### CONSEILS POUR RESTER LA NUIT
 
-1. Nous restons à l'hôtel Buitenplaats de Bergse Bossen [https://www.bergsebossen.nl/,](https://www.bomenmuseum.nl/. "https://www.bomenmuseum.nl/.") pas nécessairement à distance de marche
+1. Nous restons à l'hôtel Buitenplaats de Bergse Bossen [https://www.bergsebossen.nl/](https://www.bomenmuseum.nl/ "https://www.bomenmuseum.nl/"), pas nécessairement à distance de marche
 2. Domaine De Horst [http://www.landgoeddehorst.nl/](https://www.bomenmuseum.nl/. "https://www.bomenmuseum.nl/.")
 3. Domaine de Zonheuvel [https://www.landgoedzonheuvel.nl/](https://www.bomenmuseum.nl/. "https://www.bomenmuseum.nl/.")
