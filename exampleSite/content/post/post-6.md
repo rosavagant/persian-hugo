@@ -12,7 +12,7 @@ menu:
 ---
 ![](/images/weddinginvitation_nl_4_parc.jpg)
 
-Op deze pagina zal door ons zelf na de bruiloft een set aan foto's geplaatst worden om nog eens na te genieten. Mocht jij op de foto staan, zullen we je eerst toestemming vragen, natuurlijk.
+Op deze pagina zal door ons zelf na de bruiloft een set aan foto's geplaatst worden om nog eens na te genieten. Mocht jij op de foto staan, zullen we je eerst om toestemming vragen, natuurlijk.
 
 ***
 
