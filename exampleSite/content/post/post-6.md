@@ -1,6 +1,6 @@
 ---
 title: 3.   Uploads - Téléchargements
-image: "/images/150857-1.jpg"
+image: "/images/141132_crop.jpg"
 description: You're invited!
 gallery:
 - "/images/150857-1.jpg"
