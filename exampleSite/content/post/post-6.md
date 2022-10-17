@@ -1,11 +1,10 @@
 ---
 title: 3.   Uploads - Téléchargements
-image: "/images/141132_crop.jpg"
+image: "/images/150857-1.jpg"
 description: You're invited!
 gallery:
 - "/images/150857-1.jpg"
 - "/images/161107.jpg"
-- "/images/141929.jpg"
 - "/images/141132.jpg"
 - "/images/141654.jpg"
 - "/images/140157.jpg"
@@ -41,5 +40,3 @@ Sommige foto's waren gewoon té leuk van jullie, en daarom kunnen sommigen van j
 ***
 
 C'est l'heure. Notre belle journée est terminée. Pour pouvoir profiter de la merveilleuse ambiance de cette journée, nous avons sélectionné pour vous quelques photos. Certains d'entre eux seront utilisés par le photographe [**Picture2Perfect**](https://picture2perfect.nl/) Bob sur son site Web dans son portfolio.
-
-\[object HTMLLIElement\]
