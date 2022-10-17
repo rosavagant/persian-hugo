@@ -1,6 +1,6 @@
 ---
 title: 3.   Uploads - Téléchargements
-image: "/images/img_20200704_125433_604.jpg"
+image: "/images/141132_crop.jpg"
 description: You're invited!
 gallery:
 - "/images/150857-1.jpg"
@@ -37,6 +37,8 @@ menu:
 ![](/images/weddinginvitation_nl_4_parc.jpg)
 
 Het is zo ver. Onze mooie dag is voorbij. Om nog na te kunnen genieten van de heerlijke sfeer van deze dag, hebben we wat foto's voor jullie geselecteerd. Een aantal hiervan zal fotograaf Bob van [**Picture2Perfect **](https://picture2perfect.nl/)op zijn website gaan gebruiken in zijn portfolio.
+
+Sommige foto's waren gewoon té leuk van jullie, en daarom kunnen sommigen van jullie binnenkort een bericht verwachten met daarin een mooie foto van je.
 
 ***
 
