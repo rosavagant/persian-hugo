@@ -34,8 +34,6 @@ menu:
     weight: 2
 
 ---
-![](/images/weddinginvitation_nl_4_parc.jpg)
-
 Het is zo ver. Onze mooie dag is voorbij. Om nog na te kunnen genieten van de heerlijke sfeer van deze dag, hebben we wat foto's voor jullie geselecteerd. Een aantal hiervan zal fotograaf Bob van [**Picture2Perfect **](https://picture2perfect.nl/)op zijn website gaan gebruiken in zijn portfolio.
 
 Sommige foto's waren gewoon té leuk van jullie, en daarom kunnen sommigen van jullie binnenkort een bericht verwachten met daarin een mooie foto van je.
@@ -43,3 +41,5 @@ Sommige foto's waren gewoon té leuk van jullie, en daarom kunnen sommigen van j
 ***
 
 C'est l'heure. Notre belle journée est terminée. Pour pouvoir profiter de la merveilleuse ambiance de cette journée, nous avons sélectionné pour vous quelques photos. Certains d'entre eux seront utilisés par le photographe [**Picture2Perfect**](https://picture2perfect.nl/) Bob sur son site Web dans son portfolio.
+
+\[object HTMLLIElement\]
