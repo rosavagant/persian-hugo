@@ -45,25 +45,17 @@ C'est l'heure. Notre belle journée est terminée. Pour pouvoir profiter de la m
 
 ![](/images/140206.jpg)
 
-![](/images/140202.jpg)
-
 ![](/images/141654.jpg)
 
 ![](/images/141132.jpg)
 
 ![](/images/141929.jpg)
 
-![](/images/140437.jpg)
-
-![](/images/141040.jpg)
-
 ![](/images/142809.jpg)
 
 ![](/images/143947.jpg)
 
 ![](/images/142917.jpg)
-
-![](/images/142731.jpg)
 
 ![](/images/143154.jpg)![](/images/161107.jpg)![](/images/161109.jpg)
 
@@ -73,13 +65,11 @@ C'est l'heure. Notre belle journée est terminée. Pour pouvoir profiter de la m
 
 ![](/images/145709.jpg)
 
-![](/images/145617.jpg)
-
 ![](/images/150316.jpg)
 
-![](/images/153217.jpg)
+![](/images/165628.jpg)
 
-![](/images/144815.jpg)
+![](/images/153217.jpg)
 
 ![](/images/150857-1.jpg)
 
